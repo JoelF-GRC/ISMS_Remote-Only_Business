@@ -1,0 +1,38 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.0.3">
+  <diagram id="test" name="Page-1">
+    <mxGraphModel dx="4186" dy="4886" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="A" value="Box A" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B" value="Box B" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow" style="endArrow=block;strokeColor=#000000;" parent="1" source="A" target="B" edge="1" />
+        <mxCell id="NEq9-v4z0Y4cVvbOT5OS-1" value="Box A" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NEq9-v4z0Y4cVvbOT5OS-2" value="Box B" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NEq9-v4z0Y4cVvbOT5OS-3" style="endArrow=block;strokeColor=#000000;" edge="1" parent="1" source="NEq9-v4z0Y4cVvbOT5OS-1" target="NEq9-v4z0Y4cVvbOT5OS-2" />
+        <mxCell id="NEq9-v4z0Y4cVvbOT5OS-4" value="Box A" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NEq9-v4z0Y4cVvbOT5OS-5" value="Box B" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NEq9-v4z0Y4cVvbOT5OS-6" style="endArrow=block;strokeColor=#000000;" edge="1" parent="1" source="NEq9-v4z0Y4cVvbOT5OS-4" target="NEq9-v4z0Y4cVvbOT5OS-5" />
+        <mxCell id="NEq9-v4z0Y4cVvbOT5OS-7" value="Box A" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NEq9-v4z0Y4cVvbOT5OS-8" value="Box B" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NEq9-v4z0Y4cVvbOT5OS-9" style="endArrow=block;strokeColor=#000000;" edge="1" parent="1" source="NEq9-v4z0Y4cVvbOT5OS-7" target="NEq9-v4z0Y4cVvbOT5OS-8" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
