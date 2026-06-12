@@ -49,14 +49,14 @@ Located in `/registers/`.
 - **vendor-register.md** — vendor tracking + risk tiering
 
 ### Core ISO Documents
-- **scope-statement.md**  
+- **scope.md**  
 - **context-of-organization.md**  
 - **soa.md** (Statement of Applicability)  
 - **internal-audit-checklist.md**
 
 ### Diagrams
 Under `/diagrams/` including:
-- **aws-cloud-architecture.drawio** (XML for Draw.io compatible diagram)
+- **aws-multiregion-rescaled.drawio** and **diagram.drawio** (XML for Draw.io compatible diagrams)
 
 ## 🧩 How This Repo Works
 
