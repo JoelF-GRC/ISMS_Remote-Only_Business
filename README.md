@@ -18,13 +18,14 @@ Located in `/ISMS-policies/`, these define the ISMS itself:
 - Risk Methodology
 - Management Overview
 - Management Review (record template + log)
+- Roles & Responsibilities (RACI Matrix)
 - Audit Policy
 - Continual Improvement
 
 ### IT Security Policies (Annex A Consolidated)
 Located in `/IT-security-policies/`.
 
-18 total consolidated policies aligned to ISO/IEC 27001:2022 Annex A controls:
+19 total consolidated policies aligned to ISO/IEC 27001:2022 Annex A controls:
 - Access Control  
 - Cryptography  
 - Network & Infrastructure Security  
@@ -41,6 +42,7 @@ Located in `/IT-security-policies/`.
 - Incident Response  
 - BCDR  
 - Compliance & Audit  
+- Acceptable Use  
 …and more.
 
 ### Registers

@@ -24,7 +24,7 @@ This version uses the four ISO audit–preferred justification categories:
 | Control | Description | Applicable? | Justification | Reference |
 |--------|-------------|-------------|---------------|-----------|
 | A.5.1 | Information security policies | Yes | Best Practice | IT Security01 |
-| A.5.2 | Roles and responsibilities | Yes | Organizational Requirement | ISMS Governance |
+| A.5.2 | Roles and responsibilities | Yes | Organizational Requirement | roles-responsibilities.md |
 | A.5.3 | Segregation of duties | Yes | Risk-Based Requirement | IT Security02 |
 | A.5.4 | Management responsibilities | Yes | Organizational Requirement | management-overview.md |
 | A.5.5 | Contact with authorities | Yes | Regulatory Requirement | Incident Response Policy |
@@ -32,7 +32,7 @@ This version uses the four ISO audit–preferred justification categories:
 | A.5.7 | Threat intelligence | Yes | Best Practice | IT Security07 |
 | A.5.8 | Risk assessment | Yes | Regulatory Requirement | risk-methodology.md |
 | A.5.9 | Inventory of assets | Yes | Best Practice | IT Security05 |
-| A.5.10 | Acceptable use | Yes | Organizational Requirement | IT Security02,14 |
+| A.5.10 | Acceptable use | Yes | Organizational Requirement | IT Security19 |
 | A.5.11 | Return of assets | Yes | Organizational Requirement | HR Offboarding Procedures |
 | A.5.12 | Information classification | Yes | Risk-Based Requirement | IT Security05 |
 | A.5.13 | Information handling | Yes | Best Practice | IT Security05 |

@@ -29,7 +29,7 @@ This checklist tracks the mandatory documented information and operational recor
 | ISMS Scope | Clause 4.3 | In Operation | ISMS-policies/scope.md | | | |
 | Context of the Organization | Clause 4.1–4.2 | In Operation | ISMS-policies/context-of-organization.md | | | |
 | Information Security Policy | Clause 5.2 | In Operation | IT-security-policies/IT Security01 | | | |
-| Roles & Responsibilities (RACI) | Clause 5.3 | Missing | — | | | Not yet created |
+| Roles & Responsibilities (RACI) | Clause 5.3 | Drafted | ISMS-policies/roles-responsibilities.md | | | |
 | Risk Assessment & Treatment Methodology | Clause 6.1.2 | In Operation | ISMS-policies/risk-methodology.md | | | |
 | Statement of Applicability | Clause 6.1.3(d) | In Operation | soa.md | | | |
 | Risk Treatment Plan | Clause 6.1.3(e) | Drafted | registers/risk-treatment-plan.md | | | Template created; needs population |
@@ -64,7 +64,7 @@ This checklist tracks the mandatory documented information and operational recor
 | IT Security16 – Incident Response | In Operation | IT-security-policies/ | | | |
 | IT Security17 – Business Continuity & Disaster Recovery | In Operation | IT-security-policies/ | | | |
 | IT Security18 – Compliance, Audit & Policy Management | In Operation | IT-security-policies/ | | | |
-| Acceptable Use Policy | Missing | — | | | Referenced in soa.md (A.5.10) but not created |
+| IT Security19 – Acceptable Use Policy | Drafted | IT-security-policies/ | | | |
 
 ---
 
