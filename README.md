@@ -19,6 +19,7 @@ Located in `/ISMS-policies/`, these define the ISMS itself:
 - Management Overview
 - Management Review (record template + log)
 - Roles & Responsibilities (RACI Matrix)
+- Document Control Policy & Register
 - Audit Policy
 - Continual Improvement
 
@@ -51,6 +52,10 @@ Located in `/registers/`.
 - **asset-register.md** — asset inventory template for cloud-native SaaS  
 - **vendor-register.md** — vendor tracking + risk tiering
 - **risk-treatment-plan.md** — action plan tracking treatment of each risk to residual acceptance
+- **training-register.md** — security awareness & role-based training tracking
+- **corrective-action-log.md** — nonconformity/CAPA tracking (Clause 10)
+- **legal-regulatory-register.md** — legal, regulatory, and contractual obligations tracker
+- **bcdr-test-log.md** — backup restore, failover, and tabletop exercise records
 
 ### Core ISO Documents
 - **scope.md**  

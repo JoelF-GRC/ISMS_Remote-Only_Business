@@ -51,15 +51,15 @@ This version uses the four ISO audit–preferred justification categories:
 | A.5.26 | Incident communication | Yes | Regulatory Requirement | IT Security16 |
 | A.5.27 | Learning from incidents | Yes | Best Practice | IT Security16 |
 | A.5.28 | Logging | Yes | Best Practice | IT Security07 |
-| A.5.29 | Corrective actions | Yes | Regulatory Requirement | continual-improvement.md |
-| A.5.30 | Business continuity | Yes | Regulatory Requirement | IT Security17 |
-| A.5.31 | ICT readiness | Yes | Organizational Requirement | IT Security17 |
-| A.5.32 | Legal, statutory, contractual obligations | Yes | Regulatory Requirement | IT Security18 |
+| A.5.29 | Corrective actions | Yes | Regulatory Requirement | continual-improvement.md, registers/corrective-action-log.md |
+| A.5.30 | Business continuity | Yes | Regulatory Requirement | IT Security17, registers/bcdr-test-log.md |
+| A.5.31 | ICT readiness | Yes | Organizational Requirement | IT Security17, registers/bcdr-test-log.md |
+| A.5.32 | Legal, statutory, contractual obligations | Yes | Regulatory Requirement | IT Security18, registers/legal-regulatory-register.md |
 | A.5.33 | Privacy protection | Yes | Regulatory Requirement | IT Security05, Vendor Mgmt |
-| A.5.34 | Compliance obligations | Yes | Regulatory Requirement | IT Security18 |
+| A.5.34 | Compliance obligations | Yes | Regulatory Requirement | IT Security18, registers/legal-regulatory-register.md |
 | A.5.35 | Independent review/audits | Yes | Regulatory Requirement | audit-policy.md |
-| A.5.36 | Documented information | Yes | Best Practice | Document Control |
-| A.5.37 | Security awareness | Yes | Organizational Requirement | Training Program |
+| A.5.36 | Documented information | Yes | Best Practice | document-control.md |
+| A.5.37 | Security awareness | Yes | Organizational Requirement | registers/training-register.md |
 
 ---
 

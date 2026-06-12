@@ -34,11 +34,11 @@ This checklist tracks the mandatory documented information and operational recor
 | Statement of Applicability | Clause 6.1.3(d) | In Operation | soa.md | | | |
 | Risk Treatment Plan | Clause 6.1.3(e) | Drafted | registers/risk-treatment-plan.md | | | Template created; needs population |
 | Information Security Objectives | Clause 6.2 | In Operation | ISMS-policies/objectives.md | | | |
-| Training & Competence Records | Clause 7.2 | Missing | — | | | Not yet created |
-| Document Control Register | Clause 7.5 | Missing | — | | | Referenced in soa.md but not created |
+| Training & Competence Records | Clause 7.2 | Drafted | registers/training-register.md | | | Template created; needs population |
+| Document Control Register | Clause 7.5 | Drafted | ISMS-policies/document-control.md | | | Template created; needs population |
 | Internal Audit Program & Schedule | Clause 9.2 | Drafted | internal-audit-checklist.md | | | Checklist exists; schedule/log needed |
 | Management Review Records | Clause 9.3 | Drafted | ISMS-policies/management-review.md | | | Template created; needs population |
-| Corrective Action / Nonconformity Log | Clause 10.1–10.2 | Missing | — | | | Process described in continual-improvement.md but no log |
+| Corrective Action / Nonconformity Log | Clause 10.1–10.2 | Drafted | registers/corrective-action-log.md | | | Template created; needs population |
 
 ---
 
@@ -75,8 +75,8 @@ This checklist tracks the mandatory documented information and operational recor
 | Risk Register | In Operation | registers/risk-register.md | | | |
 | Asset Register | In Operation | registers/asset-register.md | | | |
 | Vendor Register | In Operation | registers/vendor-register.md | | | |
-| Legal & Regulatory Compliance Register | Missing | — | | | Policy exists (IT Security18) but no register |
-| BCDR Test Records | Missing | — | | | Policy exists (IT Security17) but no test log |
+| Legal & Regulatory Compliance Register | Drafted | registers/legal-regulatory-register.md | | | Template created; needs population |
+| BCDR Test Records | Drafted | registers/bcdr-test-log.md | | | Template created; needs population |
 
 ---
 
