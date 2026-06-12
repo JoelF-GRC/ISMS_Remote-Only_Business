@@ -13,6 +13,9 @@ This version uses the four ISO audit–preferred justification categories:
 - **Best Practice** – Based on industry standards, ISO/NIST/SOC 2 expectations, or secure-by-design principles.
 - **Risk-Based Requirement** – Necessary to treat identified risks.
 
+### Note on HR References
+References to "HR Policy," "HR Training," "Offboarding SOP," "Employment Agreements," and "HR Offboarding Procedures" (A.5.11, A.6.1–A.6.7) point to CompanyX's HR documentation, which is maintained outside this repository (see README — out-of-scope items). They are listed here for SoA completeness.
+
 ---
 
 # ANNEX A CONTROLS
@@ -27,7 +30,7 @@ This version uses the four ISO audit–preferred justification categories:
 | A.5.2 | Roles and responsibilities | Yes | Organizational Requirement | roles-responsibilities.md |
 | A.5.3 | Segregation of duties | Yes | Risk-Based Requirement | IT Security02 |
 | A.5.4 | Management responsibilities | Yes | Organizational Requirement | management-overview.md |
-| A.5.5 | Contact with authorities | Yes | Regulatory Requirement | Incident Response Policy |
+| A.5.5 | Contact with authorities | Yes | Regulatory Requirement | IT Security16 |
 | A.5.6 | Special-interest groups | Yes | Best Practice | IT Security07 |
 | A.5.7 | Threat intelligence | Yes | Best Practice | IT Security07 |
 | A.5.8 | Risk assessment | Yes | Regulatory Requirement | risk-methodology.md |
@@ -51,15 +54,15 @@ This version uses the four ISO audit–preferred justification categories:
 | A.5.26 | Incident communication | Yes | Regulatory Requirement | IT Security16 |
 | A.5.27 | Learning from incidents | Yes | Best Practice | IT Security16 |
 | A.5.28 | Logging | Yes | Best Practice | IT Security07 |
-| A.5.29 | Corrective actions | Yes | Regulatory Requirement | continual-improvement.md, registers/corrective-action-log.md |
-| A.5.30 | Business continuity | Yes | Regulatory Requirement | IT Security17, registers/bcdr-test-log.md |
-| A.5.31 | ICT readiness | Yes | Organizational Requirement | IT Security17, registers/bcdr-test-log.md |
-| A.5.32 | Legal, statutory, contractual obligations | Yes | Regulatory Requirement | IT Security18, registers/legal-regulatory-register.md |
-| A.5.33 | Privacy protection | Yes | Regulatory Requirement | IT Security05, Vendor Mgmt |
-| A.5.34 | Compliance obligations | Yes | Regulatory Requirement | IT Security18, registers/legal-regulatory-register.md |
+| A.5.29 | Corrective actions | Yes | Regulatory Requirement | continual-improvement.md, corrective-action-log.md |
+| A.5.30 | Business continuity | Yes | Regulatory Requirement | IT Security17, bcdr-test-log.md |
+| A.5.31 | ICT readiness | Yes | Organizational Requirement | IT Security17, bcdr-test-log.md |
+| A.5.32 | Legal, statutory, contractual obligations | Yes | Regulatory Requirement | IT Security18, legal-regulatory-register.md |
+| A.5.33 | Privacy protection | Yes | Regulatory Requirement | IT Security05, IT Security11 |
+| A.5.34 | Compliance obligations | Yes | Regulatory Requirement | IT Security18, legal-regulatory-register.md |
 | A.5.35 | Independent review/audits | Yes | Regulatory Requirement | audit-policy.md |
 | A.5.36 | Documented information | Yes | Best Practice | document-control.md |
-| A.5.37 | Security awareness | Yes | Organizational Requirement | registers/training-register.md |
+| A.5.37 | Security awareness | Yes | Organizational Requirement | training-register.md |
 
 ---
 
@@ -70,7 +73,7 @@ This version uses the four ISO audit–preferred justification categories:
 | A.6.1 | Background checks | Yes | Regulatory Requirement | HR Policy |
 | A.6.2 | Employment terms | Yes | Organizational Requirement | HR Policy |
 | A.6.3 | Security responsibilities | Yes | Best Practice | IT Security01 |
-| A.6.4 | Security awareness | Yes | Regulatory Requirement | HR Training |
+| A.6.4 | Security awareness | Yes | Regulatory Requirement | HR Training, training-register.md |
 | A.6.5 | Disciplinary process | Yes | Organizational Requirement | HR Policy |
 | A.6.6 | Responsibilities after termination | Yes | Organizational Requirement | Offboarding SOP |
 | A.6.7 | Confidentiality agreements | Yes | Regulatory Requirement | Employment Agreements |
