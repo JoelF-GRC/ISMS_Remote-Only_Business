@@ -17,6 +17,7 @@ Located in `/ISMS-policies/`, these define the ISMS itself:
 - Objectives
 - Risk Methodology
 - Management Overview
+- Management Review (record template + log)
 - Audit Policy
 - Continual Improvement
 
@@ -47,12 +48,17 @@ Located in `/registers/`.
 - **risk-register.md** — ISO-aligned risks, mapped to Annex A  
 - **asset-register.md** — asset inventory template for cloud-native SaaS  
 - **vendor-register.md** — vendor tracking + risk tiering
+- **risk-treatment-plan.md** — action plan tracking treatment of each risk to residual acceptance
 
 ### Core ISO Documents
 - **scope.md**  
 - **context-of-organization.md**  
 - **soa.md** (Statement of Applicability)  
 - **internal-audit-checklist.md**
+
+### Certification Readiness Toolkit
+- **gap-analysis.md** — maturity-based gap assessment against ISO/IEC 27001:2022 Clauses 4–10 and Annex A policy areas, used to scope and prioritize an implementation project
+- **iso27001-readiness-checklist.md** — tracks status of mandatory documents and operational records toward Stage 1/Stage 2 certification readiness
 
 ### Diagrams
 Under `/diagrams/` including:
