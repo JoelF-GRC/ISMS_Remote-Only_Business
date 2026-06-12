@@ -1,5 +1,5 @@
 # IT Security09 – Secure Development & Change Management Policy
-(Annex A: A.8.28, A.8.9, A.5.21, A.8.25)
+(Annex A: A.8.25, A.8.28, A.8.32, A.5.8, A.5.21)
 
 ## Overview
 CompanyX implements secure software development practices and formal change management processes to ensure that applications, infrastructure, and configurations are deployed safely, reviewed appropriately, and monitored for unauthorized changes.
@@ -14,7 +14,7 @@ CompanyX implements secure software development practices and formal change mana
 - Automated static and dynamic analysis (SAST/DAST) must be integrated into CI/CD pipelines.
 
 ### 2. Code Review and Separation of Duties  
-(Annex A: A.5.21)
+(Annex A: A.5.3)
 - All production code must undergo peer review.
 - Developers may not approve their own pull requests.
 - Production deployments must be performed by authorized personnel via CI/CD pipelines.
@@ -25,7 +25,7 @@ CompanyX implements secure software development practices and formal change mana
 - Only approved repositories and registries may be used.
 
 ### 4. Change Management Requirements  
-(Annex A: A.8.9)
+(Annex A: A.8.32)
 - All production changes must follow a documented change process.
 - Changes must include:
   - Description

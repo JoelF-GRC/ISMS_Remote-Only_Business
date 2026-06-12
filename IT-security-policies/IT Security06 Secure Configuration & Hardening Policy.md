@@ -1,5 +1,5 @@
 # IT Security06 – Secure Configuration & Hardening Policy
-(Annex A: A.8.8, A.8.9, A.8.10)
+(Annex A: A.8.9, A.8.19)
 
 ## Overview
 CompanyX enforces secure configuration standards for systems, cloud services, network components, and endpoints. This policy ensures systems are deployed, maintained, and monitored using hardened baselines aligned with industry best practices.
@@ -7,7 +7,7 @@ CompanyX enforces secure configuration standards for systems, cloud services, ne
 ## Policy
 
 ### 1. Baseline Hardening Requirements  
-(Annex A: A.8.8)
+(Annex A: A.8.9)
 - All systems must follow documented hardening baselines, including:
   - CIS Benchmarks (AWS, Linux, Windows, macOS)
   - Secure configuration standards for containers and serverless services
@@ -21,7 +21,7 @@ CompanyX enforces secure configuration standards for systems, cloud services, ne
 - Changes must be logged, version-controlled, and traceable to an authorized requester.
 
 ### 3. Endpoint Configuration  
-(Annex A: A.8.10)
+(Annex A: A.8.1)
 - All endpoints must be:
   - Encrypted (FileVault, BitLocker)
   - Protected by CrowdStrike

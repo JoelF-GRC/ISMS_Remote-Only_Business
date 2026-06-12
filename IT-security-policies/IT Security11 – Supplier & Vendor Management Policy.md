@@ -1,5 +1,5 @@
 # IT Security11 – Supplier & Vendor Management Policy
-(Annex A: A.5.19, A.5.20, A.5.22, A.5.23)
+(Annex A: A.5.19, A.5.20, A.5.21, A.5.22, A.8.30)
 
 ## 1. Overview
 CompanyX ensures that third-party suppliers, vendors, hosting providers, and service partners operate in a secure manner consistent with CompanyX’s information security and compliance requirements. This policy governs the onboarding, assessment, monitoring, and termination of supplier relationships.
@@ -7,7 +7,7 @@ CompanyX ensures that third-party suppliers, vendors, hosting providers, and ser
 ## 2. Policy
 
 ### 2.1 Supplier Classification  
-(Annex A: A.5.22)
+(Annex A: A.5.19)
 - Suppliers must be classified based on risk:
   - **Low Risk**: No access to data or systems.
   - **Medium Risk**: Access to internal systems or non-sensitive data.
@@ -39,7 +39,7 @@ CompanyX ensures that third-party suppliers, vendors, hosting providers, and ser
   - Incident history
   - Vulnerability exposure notifications
 ### 5. Access Control for Vendors  
-(Annex A: A.5.22, A.5.23)
+(Annex A: A.5.22)
 - Vendor access must:
   - Use CompanyX-managed identities where possible
   - Be time-bound and role-based

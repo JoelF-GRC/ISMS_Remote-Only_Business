@@ -1,5 +1,5 @@
 # IT Security17 – Business Continuity & Disaster Recovery Policy
-(Annex A: A.5.30, A.8.13, A.8.14)
+(Annex A: A.5.29, A.5.30, A.8.14)
 
 ## 1. Overview
 CompanyX maintains business continuity and disaster recovery (BC/DR) capabilities to ensure the resilience and ongoing delivery of services during disruptions. This policy defines requirements for continuity planning, recovery objectives, testing, and crisis communication.
@@ -7,7 +7,7 @@ CompanyX maintains business continuity and disaster recovery (BC/DR) capabilitie
 ## 2. Policy
 
 ### 2.1 Business Continuity Planning  
-(Annex A: A.5.30)
+(Annex A: A.5.29, A.5.30)
 - Business functions must conduct Business Impact Assessments (BIAs) at least every two years.
 - BIAs must identify:
   - Critical systems and processes

@@ -1,5 +1,5 @@
 # IT Security05 – Asset Management & Information Classification Policy
-(Annex A: A.5.9, A.5.12–A.5.14)
+(Annex A: A.5.9, A.5.12, A.5.13, A.8.10)
 
 ## Overview
 CompanyX maintains an accurate inventory of information assets and classifies information according to its sensitivity. This policy ensures assets are protected throughout their lifecycle and that classification requirements dictate appropriate handling controls.
@@ -7,7 +7,7 @@ CompanyX maintains an accurate inventory of information assets and classifies in
 ## Policy
 
 ### 1. Asset Inventory  
-(Annex A: A.5.9, A.5.12)
+(Annex A: A.5.9)
 - All information assets must be inventoried, including:
   - Cloud resources (AWS accounts, VPCs, EC2, RDS, Lambda, S3 buckets)
   - Endpoints (laptops, mobile devices)
@@ -17,7 +17,7 @@ CompanyX maintains an accurate inventory of information assets and classifies in
 - The inventory must be reviewed at least quarterly.
 
 ### 2. Information Classification  
-(Annex A: A.5.13)
+(Annex A: A.5.12)
 CompanyX uses four data classifications:
 - **Public** – Approved for external disclosure
 - **Internal** – Default classification; internal use only
@@ -32,7 +32,7 @@ CompanyX uses four data classifications:
 - Sensitive data must not be emailed externally without encryption.
 
 ### 4. Asset Handling and Lifecycle  
-(Annex A: A.5.14)
+(Annex A: A.8.10, A.7.14)
 - Asset onboarding must include tagging, ownership assignment, and classification.
 - Asset changes (e.g., redeployment, migration) must preserve classification and security requirements.
 - At end of life:

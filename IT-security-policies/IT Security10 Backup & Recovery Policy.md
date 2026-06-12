@@ -1,5 +1,5 @@
 # IT Security10 – Backup & Recovery Policy
-(Annex A: A.8.13, A.5.30)
+(Annex A: A.8.13, A.8.10, A.5.30)
 
 ## Overview
 CompanyX implements and maintains backup and recovery capabilities to ensure data availability and integrity in the event of system failure, data loss, corruption, or disaster.

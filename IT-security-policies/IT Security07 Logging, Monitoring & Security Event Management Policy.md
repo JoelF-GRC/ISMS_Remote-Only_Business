@@ -1,5 +1,5 @@
 # IT Security07 – Logging, Monitoring & Security Event Management Policy
-(Annex A: A.8.15–A.8.23, A.5.23)
+(Annex A: A.8.15, A.8.16, A.8.17, A.8.12, A.5.6, A.5.7)
 
 ## Overview
 CompanyX collects, monitors, and analyzes security logs from critical systems to detect, investigate, and respond to threats. This policy defines requirements for log generation, retention, SIEM correlation, and real-time security monitoring.
@@ -18,7 +18,7 @@ CompanyX collects, monitors, and analyzes security logs from critical systems to
 - Logs must include timestamps, event types, user identity, and results.
 
 ### 2. Log Protection and Retention  
-(Annex A: A.8.17, A.8.18)
+(Annex A: A.8.15, A.8.12)
 - Logs must be stored in:
   - Centralized SIEM (Rapid7)
   - Immutable storage where applicable
@@ -26,7 +26,7 @@ CompanyX collects, monitors, and analyzes security logs from critical systems to
 - Retention must follow CompanyX’s data retention schedule (typically 12–24 months).
 
 ### 3. Security Monitoring  
-(Annex A: A.5.23)
+(Annex A: A.8.16)
 - Monitoring tools include:
   - Rapid7 SIEM
   - CrowdStrike XDR
@@ -35,12 +35,12 @@ CompanyX collects, monitors, and analyzes security logs from critical systems to
 - Security alerts must be triaged and investigated promptly.
 
 ### 4. Event Correlation and Detection  
-(Annex A: A.8.19)
+(Annex A: A.8.16)
 - Events must be correlated across identity, endpoint, network, and cloud data sources.
 - High-risk detections (impossible travel, privilege escalation, anomalous logins) must generate alerts.
 
 ### 5. Time Synchronization  
-(Annex A: A.8.23)
+(Annex A: A.8.17)
 - All servers, endpoints, and cloud services must use reliable time sources (e.g., NTP, AWS Time Sync Service).
 - Time drift must be corrected automatically.
 

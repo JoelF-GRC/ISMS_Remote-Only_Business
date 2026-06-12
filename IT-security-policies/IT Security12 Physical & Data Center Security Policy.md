@@ -1,5 +1,5 @@
 # IT Security12 – Physical & Data Center Security Policy
-(Annex A: A.7.1–A.7.8)
+(Annex A: A.7.1–A.7.9, A.7.11, A.7.13–A.7.14, A.6.7)
 
 ## Overview
 CompanyX operates as a remote-first SaaS provider with no dedicated corporate offices. Physical security relates primarily to employee endpoints, approved coworking environments, and third-party data centers hosting cloud infrastructure (e.g., AWS). This policy defines minimum controls for safe physical handling and protection of assets.
@@ -17,7 +17,7 @@ CompanyX operates as a remote-first SaaS provider with no dedicated corporate of
 - CompanyX relies on AWS SOC 2/ISO 27001 assurances for physical controls.
 
 ### 2. Employee Endpoint Physical Security  
-(Annex A: A.7.3)
+(Annex A: A.7.9)
 - Devices must be:
   - Encrypted (FileVault/BitLocker)
   - MDM-managed
@@ -26,7 +26,7 @@ CompanyX operates as a remote-first SaaS provider with no dedicated corporate of
 - Employees must not leave devices unattended in public spaces.
 
 ### 3. Remote Work Location Requirements  
-(Annex A: A.7.3, A.7.7)
+(Annex A: A.7.3, A.7.7, A.6.7)
 - Employees must:
   - Work in locations where unauthorized individuals cannot view screens
   - Use privacy shields when necessary
@@ -36,12 +36,12 @@ CompanyX operates as a remote-first SaaS provider with no dedicated corporate of
   - No confidential conversations in shared areas
 
 ### 4. Visitor and Access Controls  
-(Annex A: A.7.8)
+(Annex A: A.7.6)
 - Visitors to locations where CompanyX assets are used must not have unsupervised access to devices.
 - Employees must store devices securely when not in use (locked rooms, drawers, safes).
 
 ### 5. Asset Handling  
-(Annex A: A.7.5–A.7.6)
+(Annex A: A.7.14, A.7.9)
 - End-of-life assets must be securely wiped before disposal.
 - Lost or stolen devices must be reported to Security within 1 hour.
 

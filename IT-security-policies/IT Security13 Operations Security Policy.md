@@ -1,5 +1,5 @@
 # IT Security13 – Operations Security Policy
-(Annex A: A.8.1–A.8.14)
+(Annex A: A.5.37, A.8.6)
 
 ## Overview
 CompanyX ensures secure and reliable operation of cloud services, production systems, and supporting infrastructure. This policy governs operational responsibilities, job scheduling, capacity management, and protection of operational processes.
@@ -7,7 +7,7 @@ CompanyX ensures secure and reliable operation of cloud services, production sys
 ## Policy
 
 ### 1. Operational Procedures  
-(Annex A: A.8.1)
+(Annex A: A.5.37)
 - Documented procedures must exist for:
   - Deployment processes
   - Production support
@@ -17,7 +17,7 @@ CompanyX ensures secure and reliable operation of cloud services, production sys
 - Procedures must be reviewed annually.
 
 ### 2. Change Control  
-(Annex A: A.8.9)
+(Annex A: A.8.32)
 - All changes to production systems must follow:
   - Change management workflow
   - Peer review
@@ -34,7 +34,7 @@ CompanyX ensures secure and reliable operation of cloud services, production sys
 - Malicious activity must trigger alerts and investigation.
 
 ### 4. Capacity & Resource Management  
-(Annex A: A.8.5–A.8.6)
+(Annex A: A.8.6)
 - AWS resources must be monitored for:
   - CPU/Memory thresholds
   - Network usage
@@ -42,12 +42,12 @@ CompanyX ensures secure and reliable operation of cloud services, production sys
 - Capacity planning must occur quarterly.
 
 ### 5. Separation of Development, Test, and Production  
-(Annex A: A.8.3–A.8.4)
+(Annex A: A.8.31)
 - Environments must be isolated within AWS using separate accounts or VPCs.
 - Test data must not include production data unless anonymized.
 
 ### 6. Event Logging and Monitoring  
-(Annex A: A.8.15–A.8.23)
+(Annex A: A.8.15, A.8.16)
 - All production systems must generate logs.
 - Logs must be:
   - Centralized in SIEM

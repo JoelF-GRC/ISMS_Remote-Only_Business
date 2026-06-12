@@ -1,5 +1,5 @@
 # IT Security15 – Cloud Security Policy
-(Annex A: A.5.15–A.5.23, A.8.20–A.8.29)
+(Annex A: A.5.23, A.8.20–A.8.23)
 
 ## Overview
 CompanyX operates primarily in AWS and Entra ID. This policy governs secure use, configuration, monitoring, and administration of cloud services to ensure confidentiality, integrity, and availability of cloud resources.
@@ -7,7 +7,7 @@ CompanyX operates primarily in AWS and Entra ID. This policy governs secure use,
 ## Policy
 
 ### 1. Identity & Access in Cloud Environments  
-(Annex A: A.5.15–A.5.23)
+(Annex A: A.5.15–A.5.18, A.5.23)
 - MFA is required for all cloud administrative access.
 - AWS IAM users are prohibited except for break-glass accounts.
 - Entra ID roles and AWS IAM roles must follow least privilege principles.

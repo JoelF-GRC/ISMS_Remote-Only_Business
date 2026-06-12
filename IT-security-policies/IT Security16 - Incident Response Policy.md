@@ -1,5 +1,5 @@
 # IT Security16 – Incident Response Policy
-(Annex A: A.5.24–A.5.27)
+(Annex A: A.5.5, A.5.24–A.5.27, A.6.8)
 
 ## 1. Overview
 CompanyX maintains a structured approach to detecting, reporting, triaging, investigating, and resolving security incidents. This policy ensures effective response that minimizes impact and preserves evidence.
@@ -7,7 +7,7 @@ CompanyX maintains a structured approach to detecting, reporting, triaging, inve
 ## 2. Policy
 
 ### 2.1 Incident Identification  
-(Annex A: A.5.24)
+(Annex A: A.6.8, A.5.24)
 - Incidents may be detected via:
   - SIEM alerts (Rapid7)
   - CrowdStrike detections
@@ -24,7 +24,7 @@ Incidents must be classified by severity:
 - **Critical**: Widespread impact, ongoing exploitation, ransomware
 
 ### 2.3 Incident Handling Procedures  
-(Annex A: A.5.25)
+(Annex A: A.5.26)
 - Incident handlers must follow:
   - Containment
   - Eradication
@@ -33,7 +33,7 @@ Incidents must be classified by severity:
 - All steps must be documented in the incident tracking system (e.g., Jira).
 
 ### 2.4 Communication Requirements  
-(Annex A: A.5.26)
+(Annex A: A.5.5, A.5.26)
 - Internal communications must be coordinated by Security and leadership.
 - External communications (customers, regulators) require approval from:
   - Legal

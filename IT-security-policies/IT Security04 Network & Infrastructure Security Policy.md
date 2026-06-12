@@ -1,5 +1,5 @@
 # IT Security04 – Network & Infrastructure Security Policy
-(Annex A: A.8.20–A.8.23, A.8.7, A.5.23)
+(Annex A: A.8.20–A.8.23, A.8.27, A.5.14)
 
 ## Overview
 CompanyX implements layered network and infrastructure security controls to protect its cloud-native, remote-first SaaS environment. This policy defines requirements for network segmentation, firewall configurations, Zero Trust networking, remote access, hardening, and ongoing monitoring across AWS, Entra, and endpoint environments.
@@ -26,7 +26,7 @@ CompanyX implements layered network and infrastructure security controls to prot
 - Firewall rules must be reviewed at least quarterly.
 
 ### 3. Zero Trust Networking  
-(Annex A: A.5.23, A.8.20)
+(Annex A: A.8.20, A.8.22)
 - CompanyX follows Zero Trust principles:
   - Verify explicitly (identity, device posture, geolocation)
   - Enforce least privilege
@@ -35,7 +35,7 @@ CompanyX implements layered network and infrastructure security controls to prot
 - Lateral movement must be minimized by network segmentation and identity-based controls.
 
 ### 4. Remote Access and VPN Requirements  
-(Annex A: A.8.21)
+(Annex A: A.8.21, A.6.7)
 - Remote access must use:
   - Entra Conditional Access
   - Approved VPN solutions with MFA
@@ -47,7 +47,7 @@ CompanyX implements layered network and infrastructure security controls to prot
   - Zero Trust remote access tools
 
 ### 5. Infrastructure Hardening  
-(Annex A: A.8.8, A.8.7)
+(Annex A: A.8.9)
 - Hardening baselines must exist for:
   - EC2 instances
   - Containers
@@ -57,7 +57,7 @@ CompanyX implements layered network and infrastructure security controls to prot
 - Unnecessary services and ports must be disabled.
 
 ### 6. Vulnerability Monitoring Across Network Surfaces  
-(Annex A: A.8.8, A.5.23)
+(Annex A: A.8.8, A.8.16)
 - The network must be continuously monitored using:
   - Rapid7 SIEM/SOAR
   - AWS GuardDuty
@@ -72,7 +72,7 @@ CompanyX implements layered network and infrastructure security controls to prot
 - Public S3 buckets are prohibited unless explicitly approved, logged, and monitored.
 
 ### 8. Logging and Monitoring  
-(Annex A: A.8.22, A.8.23)
+(Annex A: A.8.15, A.8.16)
 - Logs must be collected from:
   - Network gateways
   - AWS VPC Flow Logs

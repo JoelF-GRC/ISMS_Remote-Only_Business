@@ -1,5 +1,5 @@
 # IT Security18 – Compliance, Audit & Policy Management Policy
-(Annex A: A.5.34–A.5.37, A.5.29)
+(Annex A: A.5.31, A.5.32, A.5.35, A.5.36)
 
 ## Overview
 CompanyX maintains a structured compliance and audit program to meet legal, regulatory, and contractual requirements. This policy defines how policies are created, reviewed, approved, and maintained, and how internal and external audits are conducted.
@@ -7,7 +7,7 @@ CompanyX maintains a structured compliance and audit program to meet legal, regu
 ## Policy
 
 ### 1. Compliance Obligations  
-(Annex A: A.5.34)
+(Annex A: A.5.31)
 - CompanyX must identify all applicable compliance obligations, including:
   - ISO 27001
   - SOC 2
@@ -35,7 +35,7 @@ CompanyX maintains a structured compliance and audit program to meet legal, regu
 - All external audit requests must be coordinated through Security.
 
 ### 4. Nonconformities & Corrective Actions  
-(Annex A: A.5.29)
+(Annex A: A.5.36)
 - Nonconformities must be documented in the Corrective Action Register.
 - Root cause analysis must be performed for significant issues.
 - Corrective actions must be completed within defined timelines.
@@ -49,7 +49,7 @@ CompanyX maintains a structured compliance and audit program to meet legal, regu
 - Policy approval requires the CISO or executive delegate.
 
 ### 6. Policy Distribution & Awareness  
-(Annex A: A.5.37)
+(Annex A: A.6.3)
 - All employees must confirm acceptance of information security policies.
 - Policy updates must be communicated via email, training, or internal announcements.
 

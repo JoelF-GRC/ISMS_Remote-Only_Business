@@ -1,5 +1,5 @@
 # IT Security19 – Acceptable Use Policy
-(Annex A: A.5.9, A.5.10, A.5.11, A.5.14, A.8.1)
+(Annex A: A.5.10, A.5.11, A.6.5, A.6.7, A.7.9, A.8.19)
 
 ## Overview
 CompanyX provides employees and contractors with information assets — including endpoints, accounts, cloud services, and data — to perform their roles. This policy defines acceptable use of these assets to protect confidentiality, integrity, and availability across CompanyX's remote-first environment.
@@ -25,7 +25,7 @@ CompanyX provides employees and contractors with information assets — includin
 - Data must only be shared with third parties in accordance with IT Security11 (Supplier & Vendor Management).
 
 ### 4. Endpoint & Software Use
-(Annex A: A.5.10, A.8.7, A.8.9)
+(Annex A: A.5.10, A.8.7, A.8.19)
 - Only company-managed and approved endpoints may be used to access CompanyX systems and data, in line with IT Security14 (Malware Protection & Endpoint Security).
 - Installation of unauthorized software, browser extensions, or unmanaged remote-access tools is prohibited.
 - Endpoints must remain enrolled in MDM/EDR and must not have security agents disabled or tampered with.
@@ -37,12 +37,12 @@ CompanyX provides employees and contractors with information assets — includin
 - Use of company systems to access illegal content, engage in harassment, or conduct unauthorized commercial activity is prohibited.
 
 ### 6. Remote Work Requirements
-(Annex A: A.5.10, A.7.3, A.7.8)
+(Annex A: A.5.10, A.6.7, A.7.9)
 - Remote work must comply with IT Security12 (Physical & Data Center Security), including securing devices, screens, and workspaces against unauthorized viewing or access.
 - Use of public or untrusted networks requires company-approved VPN or equivalent secure connectivity.
 
 ### 7. Asset Return & Removal
-(Annex A: A.5.9, A.5.11)
+(Annex A: A.5.11, A.6.5)
 - Company assets remain CompanyX property and must be returned upon request or termination of employment/contract, per HR Offboarding Procedures.
 - Removal of company assets or data from CompanyX systems requires manager approval.
 

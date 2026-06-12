@@ -1,5 +1,5 @@
 # IT Security02 – Access Control & Identity Management Policy
-(Annex A: A.5.15–A.5.23, A.8.2, A.8.3)
+(Annex A: A.5.3, A.5.15–A.5.18, A.8.2, A.8.3, A.8.4, A.8.5, A.8.18)
 
 ## Overview
 CompanyX establishes identity and access management requirements to ensure that only authorized users, systems, and services can access CompanyX information assets across its remote-first, cloud-native environment. This policy consolidates Identity Lifecycle Management, Privileged Access Management (PIM/PAM), Separation of Duties (SoD), and authentication standards.
@@ -22,7 +22,7 @@ CompanyX establishes identity and access management requirements to ensure that 
 - Access to production environments requires documented approval and logging.
 
 ### 3. Privileged Access Management (PIM/PAM)  
-(Annex A: A.5.19, A.5.20)
+(Annex A: A.8.2, A.8.18)
 - Administrative roles must use just-in-time elevation via Entra PIM or AWS IAM roles.
 - Privileged actions must require MFA, session logging, and, where applicable, approval.
 - Break-glass accounts must:
@@ -32,14 +32,14 @@ CompanyX establishes identity and access management requirements to ensure that 
 - Standing administrative access is prohibited unless explicitly approved with documented justification and compensating controls.
 
 ### 4. Separation of Duties (SoD)  
-(Annex A: A.5.21)
+(Annex A: A.5.3)
 - No individual may deploy code to production without independent review.
 - No individual may approve their own access requests or changes.
 - Conflicts of duties must be identified, documented, and mitigated with evidence recorded in the risk register or access review records.
 - SoD requirements apply across AWS, Entra, Jira, CI/CD pipelines, and administrative tools.
 
 ### 5. Authentication Requirements  
-(Annex A: A.8.2, A.8.3)
+(Annex A: A.8.5, A.8.3)
 - MFA is required for all user and administrator logins to Entra ID, AWS, VPN, and other critical systems.
 - Passwords must meet CompanyX’s password standard (minimum length, complexity, and re-use restrictions) and must be changed if compromise is suspected.
 - API keys and service account credentials must:
@@ -54,7 +54,7 @@ CompanyX establishes identity and access management requirements to ensure that 
 - All privileged third-party access must be monitored, logged, and periodically reviewed.
 
 ### 7. Monitoring and Detection  
-(Annex A: A.5.23)
+(Annex A: A.8.15, A.8.16)
 - Access logs must be collected and monitored for suspicious activity.
 - Anomalous logins, privilege escalations, and geographic anomalies must generate alerts for investigation.
 - Monitoring sources include, but are not limited to:

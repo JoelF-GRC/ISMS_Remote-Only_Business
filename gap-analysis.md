@@ -62,6 +62,7 @@ Unlike `internal-audit-checklist.md` (which assumes an operating ISMS and suppor
 | IT Security16 | Incident Response | | | | | | |
 | IT Security17 | Business Continuity & Disaster Recovery | | | | | | |
 | IT Security18 | Compliance, Audit & Policy Management | | | | | | |
+| IT Security19 | Acceptable Use | | | | | | |
 
 ---
 

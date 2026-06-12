@@ -59,6 +59,12 @@ Provide a structured checklist for conducting annual ISO 27001 internal audits c
 - [ ] Vendor security validated?
 - [ ] Incident response tested?
 
+### A.6 People Controls
+- [ ] Screening and onboarding requirements followed?
+- [ ] Security awareness training completed and recorded?
+- [ ] Remote working requirements followed?
+- [ ] Termination/offboarding responsibilities completed?
+
 ### A.7 Physical Controls
 - [ ] Remote work requirements followed?
 - [ ] AWS & vendor DC controls reviewed?
