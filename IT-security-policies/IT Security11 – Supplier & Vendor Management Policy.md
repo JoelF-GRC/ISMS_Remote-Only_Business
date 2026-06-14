@@ -1,12 +1,12 @@
 # IT Security11 – Supplier & Vendor Management Policy
 (Annex A: A.5.19, A.5.20, A.5.21, A.5.22, A.8.30)
 
-## 1. Overview
+## Overview
 CompanyX ensures that third-party suppliers, vendors, hosting providers, and service partners operate in a secure manner consistent with CompanyX’s information security and compliance requirements. This policy governs the onboarding, assessment, monitoring, and termination of supplier relationships.
 
-## 2. Policy
+## Policy
 
-### 2.1 Supplier Classification  
+### 1. Supplier Classification  
 (Annex A: A.5.19)
 - Suppliers must be classified based on risk:
   - **Low Risk**: No access to data or systems.
@@ -14,7 +14,7 @@ CompanyX ensures that third-party suppliers, vendors, hosting providers, and ser
   - **High Risk**: Access to production systems or Confidential/Highly Confidential data.
 - High-risk vendors require formal security review and contract terms.
 
-### 2.2 Security Due Diligence  
+### 2. Security Due Diligence  
 - Prior to onboarding, High and Medium risk suppliers must undergo:
   - Security questionnaire review
   - SOC 2, ISO 27001, or equivalent reports
@@ -23,7 +23,7 @@ CompanyX ensures that third-party suppliers, vendors, hosting providers, and ser
 - Evaluate whether critical suppliers maintain climate-resilient operations (e.g., multi-region redundancy, environmental risk planning).
 - Identified risks must be documented in the Supplier Risk Register.
 
-### 3. Contractual Requirements  
+### 3. Contractual Requirements
 - Contracts with suppliers must include:
   - Confidentiality and data protection clauses
   - Breach notification requirements

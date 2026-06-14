@@ -61,3 +61,9 @@ This register provides a single index of ISMS documents with their current revie
 
 ## Ownership
 Security Department (ISMS Manager)
+
+## Document Version History
+
+| Version | Author | Date | Changes | Approved By |
+|--------|---------|------------|----------------|--------------|
+| 1.0 | Security Department | YYYY-MM-DD | Initial creation | CISO / CTO |
