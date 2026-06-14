@@ -18,3 +18,12 @@ Occurs annually and covers:
 
 ## Decision-Making
 Leadership decisions directly impact risk acceptance, policy approval, and resourcing.
+
+## Ownership
+Security Department (ISMS Manager)
+
+## Document Version History
+
+| Version | Author | Date | Changes | Approved By |
+|--------|---------|------------|----------------|--------------|
+| 1.0 | Security Department | YYYY-MM-DD | Initial creation | CISO / CTO |

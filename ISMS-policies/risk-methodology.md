@@ -23,3 +23,12 @@ Define how risks are identified, analyzed, evaluated, and treated.
 - Jira
 - Risk Register
 - Threat Intelligence
+
+## Ownership
+Security Department (ISMS Manager)
+
+## Document Version History
+
+| Version | Author | Date | Changes | Approved By |
+|--------|---------|------------|----------------|--------------|
+| 1.0 | Security Department | YYYY-MM-DD | Initial creation | CISO / CTO |

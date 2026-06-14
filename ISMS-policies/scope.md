@@ -35,3 +35,9 @@ The ISMS covers all information assets, processes, people, and technology suppor
 
 ## Approval
 CISO / CTO
+
+## Document Version History
+
+| Version | Author | Date | Changes | Approved By |
+|--------|---------|------------|----------------|--------------|
+| 1.0 | Security Department | YYYY-MM-DD | Initial creation | CISO / CTO |

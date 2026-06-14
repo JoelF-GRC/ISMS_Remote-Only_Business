@@ -35,3 +35,9 @@ Context informs the scope, objectives, risk methodology, and policies.
 
 ## Maintenance
 Reviewed annually or after significant organizational change.
+
+## Document Version History
+
+| Version | Author | Date | Changes | Approved By |
+|--------|---------|------------|----------------|--------------|
+| 1.0 | Security Department | YYYY-MM-DD | Initial creation | CISO / CTO |

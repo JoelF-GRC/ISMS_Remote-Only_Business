@@ -17,3 +17,9 @@ Ensure that CompanyX continuously improves its information security posture.
 
 ## Ownership
 Security Department
+
+## Document Version History
+
+| Version | Author | Date | Changes | Approved By |
+|--------|---------|------------|----------------|--------------|
+| 1.0 | Security Department | YYYY-MM-DD | Initial creation | CISO / CTO |
