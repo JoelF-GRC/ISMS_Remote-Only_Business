@@ -69,7 +69,7 @@ Located in `/registers/`.
 
 ### Diagrams
 Under `/diagrams/` including:
-- **aws-multiregion-rescaled.drawio** and **diagram.drawio** (XML for Draw.io compatible diagrams)
+- **aws-multiregion-rescaled.drawio** (XML for Draw.io compatible diagrams)
 
 ## 🧩 How This Repo Works
 
