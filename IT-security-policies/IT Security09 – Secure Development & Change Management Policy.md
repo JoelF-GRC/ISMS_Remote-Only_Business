@@ -1,5 +1,5 @@
 # IT Security09 – Secure Development & Change Management Policy
-(Annex A: A.8.25, A.8.28, A.8.32, A.5.8, A.5.21)
+(Annex A: A.8.25, A.8.28, A.8.32, A.8.11, A.5.8, A.5.21)
 
 ## Overview
 CompanyX implements secure software development practices and formal change management processes to ensure that applications, infrastructure, and configurations are deployed safely, reviewed appropriately, and monitored for unauthorized changes.
@@ -42,7 +42,14 @@ CompanyX implements secure software development practices and formal change mana
   - Peer review
   - Version control in GitHub
 
-### 6. Secrets and Key Use in Development  
+### 6. Data Masking  
+(Annex A: A.8.11)
+- Production data containing PII or Confidential information must not be used in development, testing, or staging environments without prior masking or anonymization.
+- Approved data masking techniques include tokenization, pseudonymization, data substitution, and format-preserving encryption.
+- Masked datasets must be generated from production snapshots using approved tooling and must not be reversible without explicit authorization.
+- Data masking requirements must be incorporated into the development lifecycle and validated as part of pre-production sign-off.
+
+### 7. Secrets and Key Use in Development  
 (Annex A: A.8.25)
 - Secrets must be stored in secure vaults (AWS Secrets Manager, Parameter Store).
 - Keys must be rotated regularly and must not appear in logs or repositories.

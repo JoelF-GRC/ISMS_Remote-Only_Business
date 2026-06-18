@@ -38,7 +38,7 @@ BC/DR plans must include consideration of:
 ### 4. Backup and Restoration  
 - Backups must be:
   - Encrypted
-  - Tested at least twice per year
+  - Tested at least quarterly
   - Stored in separate AZs or regions
 - Restoration tests must validate:
   - Data integrity

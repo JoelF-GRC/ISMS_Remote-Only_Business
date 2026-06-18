@@ -1,5 +1,5 @@
 # IT Security01 – Information Security Management Policy
-(ISO 27001:2022 Clauses 4–10, Annex A: A.5.1, A.5.2, A.5.3, A.6.3, A.5.35, A.5.36)
+(ISO 27001:2022 Clauses 4–10, Annex A: A.5.1, A.5.2, A.6.3, A.5.35, A.5.36)
 
 ## Overview
 CompanyX establishes and maintains an Information Security Management System (ISMS) to protect the confidentiality, integrity, and availability of information across its remote-first, cloud-native SaaS environment. This policy outlines the governance framework, leadership responsibilities, risk management approach, and continual improvement requirements of the ISMS.

@@ -28,7 +28,7 @@ CompanyX implements and maintains backup and recovery capabilities to ensure dat
 
 ### 4. Restoration Testing  
 (Annex A: A.5.30)
-- Backup restoration tests must be performed at least twice per year.
+- Backup restoration tests must be performed at least quarterly.
 - Results must be documented, reviewed, and tracked by the Security Department.
 
 ### 5. Isolation of Backups  
