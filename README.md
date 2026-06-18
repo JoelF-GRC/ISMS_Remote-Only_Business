@@ -8,7 +8,7 @@ This repo is built for:
 - Providing reusable artifacts for GRC portfolios
 - Documenting governance, risk, and compliance work
 
-## 📁 Repository Contents
+## Repository Contents
 
 ### ISMS Governance Policies (Clauses 4–10)
 Located in `/ISMS-policies/`, these define the ISMS itself:
@@ -72,26 +72,25 @@ Located in `/registers/`.
 - **iso27001-readiness-checklist.md** — tracks status of mandatory documents and operational records toward Stage 1/Stage 2 certification readiness
 
 ### Diagrams
-Under `/diagrams/` including:
-- **aws-multiregion-rescaled.drawio** (XML for Draw.io compatible diagrams)
+Located in `/diagrams/`:
+- **aws-multiregion-rescaled.jpg** — architecture diagram (for viewing)
+- **aws-multiregion-rescaled.drawio** — source file (for editing in Draw.io)
 
-## 🧩 How This Repo Works
+## How This Repo Works
 
-This repo mimics the structure of a lightweight, audit-ready ISO 27001 ISMS.  
-Documents are intentionally:
-- High-clarity  
-- Concise  
-- Mapped to ISO 27001:2022  
-- Generic/sanitized using “CompanyX”  
+Documents are structured to reflect a lightweight, audit-ready ISO 27001 ISMS. They are intentionally:
+- Concise
+- Mapped to ISO 27001:2022
+- Generic/sanitized using "CompanyX"
 - Optimized for remote-first SaaS teams using AWS
 
-### What This Repo *Does Not* Contain
+### What This Repo Does Not Contain
 - Confidential data  
 - Proprietary architecture  
 - Real customer information  
 - Non-public internal processes  
 
-### What This Repo *Does* Provide
+### What This Repo Provides
 - A complete example ISMS suitable for:
   - Interviews
   - Portfolio building
@@ -99,18 +98,17 @@ Documents are intentionally:
   - Teaching others how to structure an ISMS  
   - Seeding a real ISMS in a startup or scale-up
 
-## 🛠 How to Use This Repo
+## How to Use This Repo
 
 1. Clone and adapt for your own organization.  
-2. Replace “CompanyX” with your company name.  
+2. Replace "CompanyX" with your company name.  
 3. Update the registers with actual data.  
 4. Add evidence folders if using this for a real audit.  
 5. Use `/IT-security-policies/` to guide technical controls.  
 6. Use `/ISMS-policies/` for ISMS governance structure.  
 
-## 🤖 AI Tooling
+## AI Tooling
 [Claude Code](https://claude.ai/code) was used during the development of this repo to review policy content for gaps, control mapping accuracy, and alignment with ISO/IEC 27001:2022 Annex A. All content was authored, reviewed, and validated by a human with GRC domain expertise.
 
-## 📜 License
+## License
 Open for public reuse. Attribution appreciated but not required.
-

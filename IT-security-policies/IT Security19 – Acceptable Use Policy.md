@@ -2,7 +2,7 @@
 (Annex A: A.5.10, A.5.11, A.6.5, A.6.7, A.7.9, A.8.19)
 
 ## Overview
-CompanyX provides employees and contractors with information assets — including endpoints, accounts, cloud services, and data — to perform their roles. This policy defines acceptable use of these assets to protect confidentiality, integrity, and availability across CompanyX's remote-first environment.
+CompanyX provides employees and contractors with information assets (endpoints, accounts, cloud services, and data) to perform their roles. This policy defines acceptable use of these assets to protect confidentiality, integrity, and availability across CompanyX's remote-first environment.
 
 ## Policy
 
@@ -43,7 +43,7 @@ CompanyX provides employees and contractors with information assets — includin
 
 ### 7. AI Tool Use
 (Annex A: A.5.10)
-- All use of artificial intelligence (AI) tools — including generative AI, AI-assisted coding tools, and AI-powered SaaS features — is governed by IT Security22 (AI Acceptable Use & Governance Policy).
+- All use of artificial intelligence (AI) tools (generative AI, AI-assisted coding tools, and AI-powered SaaS features) is governed by IT Security22 (AI Acceptable Use & Governance Policy).
 - Only tools on the CompanyX Approved AI Tool List may be used. Requests for new AI tools must follow the approval process in IT Security22.
 - Data classification restrictions defined in IT Security22 apply to all AI inputs. Highly Confidential data and credentials must never be entered into any AI tool.
 

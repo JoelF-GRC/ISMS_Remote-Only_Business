@@ -2,7 +2,7 @@
 (Annex A: A.5.10, A.5.19, A.5.34, A.8.25)
 
 ## Overview
-Artificial Intelligence (AI) tools — including generative AI models, AI-assisted coding tools, AI-powered SaaS features, and automated decision-support systems — introduce unique risks related to data confidentiality, intellectual property, accuracy, and regulatory compliance. This policy establishes CompanyX's requirements for the acceptable use of AI tools, the approval process for adopting new AI tools, and the governance obligations applicable to all AI-assisted work.
+Artificial Intelligence (AI) tools, including generative AI models, AI-assisted coding tools, AI-powered SaaS features, and automated decision-support systems, introduce unique risks related to data confidentiality, intellectual property, accuracy, and regulatory compliance. This policy establishes CompanyX's requirements for the acceptable use of AI tools, the approval process for adopting new AI tools, and the governance obligations applicable to all AI-assisted work.
 
 The approval process for AI tools is integrated with the vendor management process defined in IT Security11 (Supplier & Vendor Management Policy). Data classification rules that govern what may be entered into AI tools are defined in IT Security05 (Asset Management & Information Classification Policy). Privacy obligations for AI use involving personal data are defined in IT Security21 (Data Protection & Privacy Policy).
 
