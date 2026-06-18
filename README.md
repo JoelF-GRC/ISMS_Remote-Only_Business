@@ -108,6 +108,9 @@ Documents are intentionally:
 5. Use `/IT-security-policies/` to guide technical controls.  
 6. Use `/ISMS-policies/` for ISMS governance structure.  
 
+## 🤖 AI Tooling
+[Claude Code](https://claude.ai/code) was used during the development of this repo to review policy content for gaps, control mapping accuracy, and alignment with ISO/IEC 27001:2022 Annex A. All content was authored, reviewed, and validated by a human with GRC domain expertise.
+
 ## 📜 License
 Open for public reuse. Attribution appreciated but not required.
 
