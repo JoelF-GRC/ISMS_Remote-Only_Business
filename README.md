@@ -26,25 +26,29 @@ Located in `/ISMS-policies/`, these define the ISMS itself:
 ### IT Security Policies (Annex A Consolidated)
 Located in `/IT-security-policies/`.
 
-19 total consolidated policies aligned to ISO/IEC 27001:2022 Annex A controls:
-- Access Control  
-- Cryptography  
+22 total consolidated policies aligned to ISO/IEC 27001:2022 Annex A controls:
+- Information Security Management  
+- Access Control & Identity Management  
+- Cryptography & Key Management  
 - Network & Infrastructure Security  
-- Asset Management  
-- Secure Configuration  
-- Logging & Monitoring  
-- Vulnerability & Patch  
-- Secure Development  
+- Asset Management & Information Classification  
+- Secure Configuration & Hardening  
+- Logging, Monitoring & Security Event Management  
+- Vulnerability & Patch Management  
+- Secure Development & Change Management  
 - Backup & Recovery  
-- Vendor Management  
-- Physical Security  
-- Malware Protection  
+- Supplier & Vendor Management  
+- Physical & Data Center Security  
+- Operations Security  
+- Malware Protection & Endpoint Security  
 - Cloud Security  
 - Incident Response  
-- BCDR  
-- Compliance & Audit  
-- Acceptable Use  
-…and more.
+- Business Continuity & Disaster Recovery  
+- Compliance, Audit & Policy Management  
+- Acceptable Use
+- Remote Working
+- Data Protection & Privacy
+- AI Acceptable Use & Governance
 
 ### Registers
 Located in `/registers/`.

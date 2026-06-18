@@ -35,7 +35,7 @@ References to "HR Policy," "HR Training," "Offboarding SOP," and "Employment Agr
 | A.5.7 | Threat intelligence | Yes | Best Practice | IT Security07 |
 | A.5.8 | Information security in project management | Yes | Organizational Requirement | IT Security09 |
 | A.5.9 | Inventory of information and other associated assets | Yes | Best Practice | IT Security05, asset-register.md |
-| A.5.10 | Acceptable use of information and other associated assets | Yes | Organizational Requirement | IT Security19 |
+| A.5.10 | Acceptable use of information and other associated assets | Yes | Organizational Requirement | IT Security19, IT Security22 |
 | A.5.11 | Return of assets | Yes | Organizational Requirement | IT Security19, HR Offboarding Procedures |
 | A.5.12 | Classification of information | Yes | Risk-Based Requirement | IT Security05 |
 | A.5.13 | Labelling of information | Yes | Best Practice | IT Security05 |
@@ -44,7 +44,7 @@ References to "HR Policy," "HR Training," "Offboarding SOP," and "Employment Agr
 | A.5.16 | Identity management | Yes | Best Practice | IT Security02 |
 | A.5.17 | Authentication information | Yes | Best Practice | IT Security02 |
 | A.5.18 | Access rights | Yes | Risk-Based Requirement | IT Security02 |
-| A.5.19 | Information security in supplier relationships | Yes | Regulatory Requirement | IT Security11 |
+| A.5.19 | Information security in supplier relationships | Yes | Regulatory Requirement | IT Security11, IT Security22 |
 | A.5.20 | Addressing information security within supplier agreements | Yes | Regulatory Requirement | IT Security11 |
 | A.5.21 | Managing information security in the ICT supply chain | Yes | Risk-Based Requirement | IT Security11, IT Security09 |
 | A.5.22 | Monitoring, review and change management of supplier services | Yes | Best Practice | IT Security11, vendor-register.md |
@@ -59,7 +59,7 @@ References to "HR Policy," "HR Training," "Offboarding SOP," and "Employment Agr
 | A.5.31 | Legal, statutory, regulatory and contractual requirements | Yes | Regulatory Requirement | IT Security18, legal-regulatory-register.md |
 | A.5.32 | Intellectual property rights | Yes | Regulatory Requirement | IT Security18, legal-regulatory-register.md |
 | A.5.33 | Protection of records | Yes | Regulatory Requirement | IT Security05, document-control.md |
-| A.5.34 | Privacy and protection of PII | Yes | Regulatory Requirement | IT Security05, legal-regulatory-register.md |
+| A.5.34 | Privacy and protection of PII | Yes | Regulatory Requirement | IT Security21 (primary), IT Security05, legal-regulatory-register.md |
 | A.5.35 | Independent review of information security | Yes | Regulatory Requirement | audit-policy.md |
 | A.5.36 | Compliance with policies, rules and standards for information security | Yes | Best Practice | IT Security18, document-control.md |
 | A.5.37 | Documented operating procedures | Yes | Best Practice | IT Security13, document-control.md |
@@ -76,7 +76,7 @@ References to "HR Policy," "HR Training," "Offboarding SOP," and "Employment Agr
 | A.6.4 | Disciplinary process | Yes | Organizational Requirement | HR Policy |
 | A.6.5 | Responsibilities after termination or change of employment | Yes | Organizational Requirement | IT Security19, Offboarding SOP |
 | A.6.6 | Confidentiality or non-disclosure agreements | Yes | Regulatory Requirement | Employment Agreements |
-| A.6.7 | Remote working | Yes | Organizational Requirement | IT Security12, IT Security19 |
+| A.6.7 | Remote working | Yes | Organizational Requirement | IT Security20 (primary), IT Security12, IT Security19 |
 | A.6.8 | Information security event reporting | Yes | Organizational Requirement | IT Security16 |
 
 ---

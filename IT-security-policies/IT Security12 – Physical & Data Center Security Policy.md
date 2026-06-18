@@ -4,6 +4,8 @@
 ## Overview
 CompanyX operates as a remote-first SaaS provider with no dedicated corporate offices. Physical security relates primarily to employee endpoints, approved coworking environments, and third-party data centers hosting cloud infrastructure (e.g., AWS). This policy defines minimum controls for safe physical handling and protection of assets.
 
+Remote working security requirements (A.6.7) are fully defined in IT Security20 (Remote Working Policy). This policy covers the physical and endpoint security aspects of remote work locations and devices.
+
 ## Policy
 
 ### 1. Data Center Controls (AWS and Third-Party Facilities)  

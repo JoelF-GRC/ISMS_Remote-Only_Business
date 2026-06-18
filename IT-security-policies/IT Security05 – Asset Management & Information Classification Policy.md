@@ -1,5 +1,5 @@
 # IT Security05 – Asset Management & Information Classification Policy
-(Annex A: A.5.9, A.5.12, A.5.13, A.8.10)
+(Annex A: A.5.9, A.5.12, A.5.13, A.5.34, A.8.10)
 
 ## Overview
 CompanyX maintains an accurate inventory of information assets and classifies information according to its sensitivity. This policy ensures assets are protected throughout their lifecycle and that classification requirements dictate appropriate handling controls.
@@ -31,7 +31,14 @@ CompanyX uses four data classifications:
 - Data must not be stored on personal devices.
 - Sensitive data must not be emailed externally without encryption.
 
-### 4. Asset Handling and Lifecycle  
+### 4. Privacy and Protection of PII  
+(Annex A: A.5.34)
+- The full data protection and privacy framework, including lawful basis, data subject rights, DPIAs, cross-border transfers, breach notification, and processor requirements, is defined in IT Security21 (Data Protection & Privacy Policy), which is the primary policy for A.5.34.
+- For asset classification purposes: PII must be classified as **Confidential** or **Highly Confidential** and handled accordingly.
+- PII must only be collected and processed for documented, lawful purposes and not used beyond those purposes (purpose limitation).
+- Privacy risk must be assessed via a Data Protection Impact Assessment (DPIA) prior to new or significantly changed processing activities involving high-risk PII, per IT Security21.
+
+### 5. Asset Handling and Lifecycle  
 (Annex A: A.8.10, A.7.14)
 - Asset onboarding must include tagging, ownership assignment, and classification.
 - Asset changes (e.g., redeployment, migration) must preserve classification and security requirements.

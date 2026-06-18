@@ -38,26 +38,33 @@ CompanyX provides employees and contractors with information assets — includin
 
 ### 6. Remote Work Requirements
 (Annex A: A.5.10, A.6.7, A.7.9)
-- Remote work must comply with IT Security12 (Physical & Data Center Security), including securing devices, screens, and workspaces against unauthorized viewing or access.
-- Use of public or untrusted networks requires company-approved VPN or equivalent secure connectivity.
+- All remote work security requirements are fully defined in IT Security20 (Remote Working Policy), which is the primary policy for A.6.7.
+- Key obligations include: VPN or ZTNA for all access to CompanyX systems, approved devices only, secured home workspaces, locked screens when unattended, and incident reporting per IT Security16.
 
-### 7. Asset Return & Removal
+### 7. AI Tool Use
+(Annex A: A.5.10)
+- All use of artificial intelligence (AI) tools — including generative AI, AI-assisted coding tools, and AI-powered SaaS features — is governed by IT Security22 (AI Acceptable Use & Governance Policy).
+- Only tools on the CompanyX Approved AI Tool List may be used. Requests for new AI tools must follow the approval process in IT Security22.
+- Data classification restrictions defined in IT Security22 apply to all AI inputs. Highly Confidential data and credentials must never be entered into any AI tool.
+
+### 8. Asset Return & Removal
 (Annex A: A.5.11, A.6.5)
 - Company assets remain CompanyX property and must be returned upon request or termination of employment/contract, per HR Offboarding Procedures.
 - Removal of company assets or data from CompanyX systems requires manager approval.
 
-### 8. Monitoring
+### 9. Monitoring
 (Annex A: A.5.10, A.8.16)
 - CompanyX may monitor use of company systems, accounts, and devices for security, compliance, and operational purposes, consistent with IT Security07 (Logging, Monitoring & Security Event Management) and applicable law.
 - Users should have no expectation of privacy when using company systems for personal purposes.
 
-### 9. Prohibited Activities
+### 10. Prohibited Activities
 The following are prohibited on CompanyX systems and accounts:
 - Circumventing security controls (e.g., disabling EDR, MFA, or logging).
 - Unauthorized access to systems, data, or accounts.
 - Introducing malware or unauthorized code.
 - Exfiltrating Confidential or Highly Confidential data.
 - Using CompanyX resources for personal commercial gain or illegal activity.
+- Using unapproved AI tools or entering Confidential or Highly Confidential data into any AI tool (see IT Security22).
 
 ## Policy Conflicts
 Where conflicts exist between this policy and other IT Security policies, the more stringent requirement applies.

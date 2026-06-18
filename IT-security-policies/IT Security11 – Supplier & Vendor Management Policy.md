@@ -22,6 +22,7 @@ CompanyX ensures that third-party suppliers, vendors, hosting providers, and ser
   - Assessment of data protection measures
 - Evaluate whether critical suppliers maintain climate-resilient operations (e.g., multi-region redundancy, environmental risk planning).
 - Identified risks must be documented in the Supplier Risk Register.
+- **AI Tool Vendors**: The onboarding and approval of AI tools and AI-enabled services is governed by IT Security22 (AI Acceptable Use & Governance Policy). AI tool vendor assessments must additionally include review of data training practices, model data retention policies, and sub-processor disclosure.
 
 ### 3. Contractual Requirements
 - Contracts with suppliers must include:
@@ -32,7 +33,8 @@ CompanyX ensures that third-party suppliers, vendors, hosting providers, and ser
   - Data retention and destruction terms
 
 ### 4. Ongoing Monitoring  
-- High-risk suppliers must be reviewed annually.
+- High-risk suppliers must be reviewed at least annually.
+- Medium-risk suppliers must be reviewed at least every two years.
 - Vendor performance and security posture must be reassessed based on:
   - Updated SOC 2/ISO reports
   - Changes in service scope
