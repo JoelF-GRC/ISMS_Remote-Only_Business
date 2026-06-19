@@ -20,7 +20,7 @@ Leadership (CISO/CTO), Security Department, and other invitees as relevant.
 | Changes in external and internal issues relevant to the ISMS | See [context-of-organization.md](context-of-organization.md) |
 | Information security performance, including: | |
 | – Nonconformities and corrective actions | See corrective action log |
-| – Monitoring and measurement results (KPIs/KRIs) | See [objectives.md](objectives.md) |
+| – Monitoring and measurement results (KPIs/KRIs) | See [metrics-register.md](../registers/metrics-register.md) (results); targets in [objectives.md](objectives.md) |
 | – Internal audit results | See internal-audit-checklist.md |
 | – Achievement of information security objectives | |
 | Feedback from interested parties | |

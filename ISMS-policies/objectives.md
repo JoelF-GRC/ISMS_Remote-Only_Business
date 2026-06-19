@@ -11,7 +11,7 @@ CompanyX maintains measurable information security objectives aligned to busines
 - Ensure compliance with ISO 27001 and customer commitments.
 
 ## Measurement
-Metrics are recorded quarterly and reviewed during management review.
+Metrics are recorded quarterly and reviewed during management review. Measurement results for each objective are documented in [registers/metrics-register.md](../registers/metrics-register.md), which serves as the primary evidence record for Clause 9.1 compliance.
 
 ## Ownership
 Security Department

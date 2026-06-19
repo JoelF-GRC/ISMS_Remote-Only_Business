@@ -60,6 +60,7 @@ Located in `/registers/`.
 - **corrective-action-log.md** — nonconformity/CAPA tracking (Clause 10)
 - **legal-regulatory-register.md** — legal, regulatory, and contractual obligations tracker
 - **bcdr-test-log.md** — backup restore, failover, and tabletop exercise records
+- **metrics-register.md** — ISMS performance metrics and measurement results against information security objectives (Clause 9.1)
 
 ### Core ISO Documents
 - **scope.md**  
