@@ -78,7 +78,7 @@
 
         <!-- DR REGION B -->
         <mxCell id="regionB" value="DR Region (us-west-2)" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1B75BC;fillColor=#F3F8FF;fontSize=14;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="625" y="130" width="405" height="340" as="geometry" />
+          <mxGeometry x="625" y="130" width="405" height="380" as="geometry" />
         </mxCell>
 
         <!-- Region B: ALB (standby) -->
@@ -99,6 +99,11 @@
         <!-- Region B: S3 CRR -->
         <mxCell id="s3B" value="S3 – Cross-Region Replica&#xa;(Encrypted, Versioned)" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#E1F5FE;fontSize=13;" vertex="1" parent="regionB">
           <mxGeometry x="215" y="200" width="165" height="55" as="geometry" />
+        </mxCell>
+
+        <!-- Region B: Security Controls Bar -->
+        <mxCell id="secB" value="GuardDuty   |   AWS Config (per-region)" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#B71C1C;fillColor=#FFEBEE;fontSize=12;" vertex="1" parent="regionB">
+          <mxGeometry x="20" y="325" width="365" height="45" as="geometry" />
         </mxCell>
 
         <!-- Region B internal edges -->
@@ -154,13 +159,13 @@
           </mxGeometry>
         </mxCell>
 
-        <!-- Logging: Region A → SIEM -->
-        <mxCell id="e-logA" value="Logs / Metrics" style="endArrow=block;dashed=1;strokeColor=#616161;strokeWidth=1.5;labelBackgroundColor=#FFFFFF;fontSize=12;" edge="1" parent="1" source="regionA" target="siem">
+        <!-- Logging: Security controls (Region A) → SIEM -->
+        <mxCell id="e-logA" value="Logs / Findings" style="endArrow=block;dashed=1;strokeColor=#616161;strokeWidth=1.5;labelBackgroundColor=#FFFFFF;fontSize=12;" edge="1" parent="1" source="secA" target="siem">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
 
-        <!-- Logging: Region B → SIEM -->
-        <mxCell id="e-logB" value="Logs / Metrics" style="endArrow=block;dashed=1;strokeColor=#616161;strokeWidth=1.5;labelBackgroundColor=#FFFFFF;fontSize=12;" edge="1" parent="1" source="regionB" target="siem">
+        <!-- Logging: Security controls (Region B) → SIEM -->
+        <mxCell id="e-logB" value="Logs / Findings" style="endArrow=block;dashed=1;strokeColor=#616161;strokeWidth=1.5;labelBackgroundColor=#FFFFFF;fontSize=12;" edge="1" parent="1" source="secB" target="siem">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
 
