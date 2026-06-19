@@ -16,6 +16,9 @@ This version uses the four ISO audit–preferred justification categories:
 ### Note on HR References
 References to "HR Policy," "HR Training," "Offboarding SOP," and "Employment Agreements" (A.6.1, A.6.2, A.6.4, A.6.5, A.6.6) point to CompanyX's HR documentation, which is maintained outside this repository (see README — out-of-scope items). They are listed here for SoA completeness.
 
+### Note on A.7 Physical Controls and AWS Inheritance
+CompanyX is a fully remote organization with no company-operated offices, server rooms, or physical facilities (see ISMS-policies/scope.md). All information processing infrastructure runs on AWS. Under the AWS Shared Responsibility Model, AWS retains responsibility for the physical security of its data centers, including perimeter security, physical access controls, environmental protections, supporting utilities, and equipment siting. CompanyX inherits these controls through AWS's ISO 27001 and SOC 2 certifications, and documents its reliance on AWS physical assurances in IT Security12 (Physical & Data Center Security Policy). Controls covering exclusively company-operated facilities — specifically A.7.3 (offices and rooms), A.7.6 (secure areas), and A.7.12 (cabling) — are excluded, as CompanyX has no such facilities. CompanyX-owned physical security obligations, which primarily govern employee endpoints, home offices, and remote work environments, are addressed in IT Security12 and IT Security20 (Remote Working Policy).
+
 ---
 
 # ANNEX A CONTROLS
@@ -85,22 +88,20 @@ References to "HR Policy," "HR Training," "Offboarding SOP," and "Employment Agr
 
 | Control | Description | Applicable? | Justification | Reference |
 |--------|-------------|-------------|---------------|-----------|
-| A.7.1 | Physical security perimeters | Yes* | Risk-Based Requirement | IT Security12 |
-| A.7.2 | Physical entry | Yes* | Regulatory Requirement | IT Security12 |
-| A.7.3 | Securing offices, rooms and facilities | Yes | Organizational Requirement | IT Security12 |
-| A.7.4 | Physical security monitoring | Yes* | Risk-Based Requirement | IT Security12 |
-| A.7.5 | Protecting against physical and environmental threats | Yes | Risk-Based Requirement | IT Security12, climate-change-addendum.md |
-| A.7.6 | Working in secure areas | Yes | Best Practice | IT Security12 |
-| A.7.7 | Clear desk and clear screen | Yes | Best Practice | IT Security12 |
-| A.7.8 | Equipment siting and protection | Yes* | Risk-Based Requirement | IT Security12 |
-| A.7.9 | Security of assets off-premises | Yes | Risk-Based Requirement | IT Security12, IT Security19 |
-| A.7.10 | Storage media | Yes | Best Practice | IT Security05, IT Security03 |
-| A.7.11 | Supporting utilities | Yes* | Risk-Based Requirement | IT Security12 |
+| A.7.1 | Physical security perimeters | Yes | Risk-Based Requirement | AWS Shared Responsibility Model (inherited), IT Security12 |
+| A.7.2 | Physical entry | Yes | Regulatory Requirement | AWS Shared Responsibility Model (inherited), IT Security12 |
+| A.7.3 | Securing offices, rooms and facilities | No | N/A | See Excluded Controls |
+| A.7.4 | Physical security monitoring | Yes | Risk-Based Requirement | AWS Shared Responsibility Model (inherited), IT Security12 |
+| A.7.5 | Protecting against physical and environmental threats | Yes | Risk-Based Requirement | AWS Shared Responsibility Model (inherited), IT Security12, climate-change-addendum.md |
+| A.7.6 | Working in secure areas | No | N/A | See Excluded Controls |
+| A.7.7 | Clear desk and clear screen | Yes | Best Practice | IT Security12, IT Security20 |
+| A.7.8 | Equipment siting and protection | Yes | Risk-Based Requirement | AWS Shared Responsibility Model (inherited), IT Security12, IT Security20 |
+| A.7.9 | Security of assets off-premises | Yes | Risk-Based Requirement | IT Security12, IT Security20, IT Security19 |
+| A.7.10 | Storage media | Yes | Best Practice | IT Security05, IT Security03, IT Security12 |
+| A.7.11 | Supporting utilities | Yes | Risk-Based Requirement | AWS Shared Responsibility Model (inherited), IT Security12 |
 | A.7.12 | Cabling security | No | N/A | See Excluded Controls |
-| A.7.13 | Equipment maintenance | Yes | Organizational Requirement | IT Security12 |
-| A.7.14 | Secure disposal or re-use of equipment | Yes | Regulatory Requirement | IT Security12 |
-
-(*Inherited AWS Data Center controls noted in policy*)
+| A.7.13 | Equipment maintenance | Yes | Organizational Requirement | AWS Shared Responsibility Model (inherited), IT Security12 |
+| A.7.14 | Secure disposal or re-use of equipment | Yes | Regulatory Requirement | IT Security12 (employee devices), AWS Shared Responsibility Model (infrastructure media) |
 
 ---
 
@@ -149,6 +150,8 @@ References to "HR Policy," "HR Training," "Offboarding SOP," and "Employment Agr
 
 | Control | Reason |
 |--------|--------|
+| A.7.3 | Securing offices, rooms and facilities — CompanyX has no company-operated offices, rooms, or physical facilities (corporate office locations are explicitly out of scope; see ISMS-policies/scope.md). Physical security of information processing infrastructure is inherited from AWS. Home office and remote work environment requirements are addressed under A.6.7 in IT Security20. |
+| A.7.6 | Working in secure areas — CompanyX has no company-operated secure areas, server rooms, or controlled access zones. Physical security of AWS data center secure areas is inherited under the AWS Shared Responsibility Model. Home office workspace security is addressed under A.6.7 in IT Security20. |
 | A.7.12 | Cabling security — CompanyX is fully remote with no company-operated offices or data centers. Network cabling for AWS data centers is covered under AWS's shared-responsibility/ISO 27001 certification, and employee home/ISP cabling is outside CompanyX's control boundary. |
 
 ---
