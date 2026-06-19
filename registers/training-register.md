@@ -1,6 +1,6 @@
 # CompanyX Training & Competence Register
 ISO/IEC 27001:2022 Clause 7.2, Annex A: A.6.3
-Last Updated: YYYY-MM-DD
+Last Updated: 2025-05-01
 
 ## Purpose
 Track completion of security awareness training and role-specific competence requirements, satisfying Clause 7.2 (Competence) and A.6.3 (Information security awareness, education and training).

@@ -1,6 +1,6 @@
 # ISMS Roles & Responsibilities (RACI Matrix)
 ISO/IEC 27001:2022 Clause 5.3, Annex A: A.5.2
-Last Updated: YYYY-MM-DD
+Last Updated: 2025-02-15
 
 ## Purpose
 Define and communicate roles, responsibilities, and authorities for the ISMS, satisfying Clause 5.3 (Organizational roles, responsibilities and authorities) and A.5.2 (Information security roles and responsibilities). This matrix complements the individual policies, which describe *what* must be done — this document clarifies *who* is accountable for ensuring it happens.
@@ -72,4 +72,4 @@ Security Department (ISMS Manager)
 
 | Version | Author | Date | Changes | Approved By |
 |---------|---------|------------|----------------|--------------|
-| 1.0 | Security Department | YYYY-MM-DD | Initial creation | CISO / CTO |
+| 1.0 | Security Department | 2025-02-15 | Initial creation | CISO / CTO |

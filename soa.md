@@ -1,6 +1,6 @@
 # Statement of Applicability (SoA)
 CompanyX ISO/IEC 27001:2022  
-Last Updated: YYYY-MM-DD
+Last Updated: 2026-06-19
 
 ## Purpose
 This Statement of Applicability (SoA) lists all 93 Annex A controls from ISO/IEC 27001:2022 (A.5: 37 controls, A.6: 8 controls, A.7: 14 controls, A.8: 34 controls), declares whether each control is applicable to CompanyX, and identifies the justification and implementation reference.
@@ -158,4 +158,4 @@ CompanyX is a fully remote organization with no company-operated offices, server
 
 # Approval
 Approved by: CISO / CTO  
-Date: YYYY-MM-DD
+Date: 2025-04-01

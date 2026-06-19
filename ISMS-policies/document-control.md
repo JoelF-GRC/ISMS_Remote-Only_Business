@@ -1,6 +1,6 @@
 # Document Control Policy & Register
 ISO/IEC 27001:2022 Clause 7.5, Annex A: A.5.36
-Last Updated: YYYY-MM-DD
+Last Updated: 2025-02-15
 
 ## Purpose
 Define how ISMS documented information is created, reviewed, approved, versioned, distributed, and retired, satisfying Clause 7.5 (Documented information) and A.5.36 (Compliance with policies, rules and standards for information security).
@@ -66,4 +66,4 @@ Security Department (ISMS Manager)
 
 | Version | Author | Date | Changes | Approved By |
 |--------|---------|------------|----------------|--------------|
-| 1.0 | Security Department | YYYY-MM-DD | Initial creation | CISO / CTO |
+| 1.0 | Security Department | 2025-02-15 | Initial creation | CISO / CTO |

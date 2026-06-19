@@ -1,6 +1,6 @@
 # CompanyX Corrective Action / Nonconformity Log
 ISO/IEC 27001:2022 Clause 10.1–10.2
-Last Updated: YYYY-MM-DD
+Last Updated: 2025-06-01
 
 ## Purpose
 Track nonconformities, their root causes, corrective actions, and effectiveness reviews, satisfying Clause 10.1 (Continual improvement) and Clause 10.2 (Nonconformity and corrective action).

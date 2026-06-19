@@ -1,6 +1,6 @@
 # Management Review Record
 ISO/IEC 27001:2022 Clause 9.3 — Management Review  
-Last Updated: YYYY-MM-DD
+Last Updated: 2026-06-19
 
 ## Purpose
 This document is both the template and the running log of CompanyX's annual (minimum) ISMS management reviews. Each review must address the inputs and outputs required by Clause 9.3, with decisions and actions recorded for traceability.
@@ -10,7 +10,7 @@ Leadership (CISO/CTO), Security Department, and other invitees as relevant.
 
 ---
 
-## Review Record — [YYYY-MM-DD]
+## Review Record — [2025-06-30]
 
 ### Inputs (Clause 9.3.2)
 
@@ -37,7 +37,7 @@ Leadership (CISO/CTO), Security Department, and other invitees as relevant.
 
 ### Approval
 Reviewed and approved by: ____________________ (CISO/CTO)
-Date: YYYY-MM-DD
+Date: 2025-06-30
 
 ---
 
@@ -54,5 +54,5 @@ Security Department (ISMS Manager)
 
 | Version | Author | Date | Changes | Approved By |
 |--------|---------|------------|----------------|--------------|
-| 1.0 | Security Department | YYYY-MM-DD | Initial creation | CISO / CTO |
+| 1.0 | Security Department | 2025-03-01 | Initial creation | CISO / CTO |
 | 1.1 | Security Department | 2026-06-19 | Confirmed as sole owner of Clause 9.3 process; review inputs no longer duplicated in management-overview.md | CISO / CTO |

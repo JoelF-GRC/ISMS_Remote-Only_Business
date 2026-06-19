@@ -1,5 +1,5 @@
 # CompanyX Vendor Register
-Last Updated: YYYY-MM-DD
+Last Updated: 2025-05-01
 
 ## Risk Tiers
 - **High Risk:** Access to production data/systems  

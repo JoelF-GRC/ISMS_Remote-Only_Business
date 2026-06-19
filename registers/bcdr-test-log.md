@@ -1,6 +1,6 @@
 # CompanyX BCDR Test Log
 ISO/IEC 27001:2022 Annex A: A.5.30, A.8.13–A.8.14
-Last Updated: YYYY-MM-DD
+Last Updated: 2025-06-01
 
 ## Purpose
 Record business continuity and disaster recovery tests, including backup restoration tests, failover exercises, and tabletop scenarios, satisfying A.5.30 (ICT readiness for business continuity), A.8.13 (Information backup), and A.8.14 (Redundancy of information processing facilities).

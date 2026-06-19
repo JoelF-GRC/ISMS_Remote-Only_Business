@@ -64,5 +64,5 @@ Security Department (ISMS Manager), with top-management accountability held by C
 
 | Version | Author | Date | Changes | Approved By |
 |--------|---------|------------|----------------|--------------|
-| 1.0 | Security Department | YYYY-MM-DD | Initial creation | CISO / CTO |
+| 1.0 | Security Department | 2025-03-01 | Initial creation | CISO / CTO |
 | 1.1 | Security Department | 2026-06-19 | Refactored to Clause 5 scope only; added Clause 7.4 Communication section; management review inputs moved to management-review.md | CISO / CTO |

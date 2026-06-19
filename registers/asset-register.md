@@ -1,5 +1,5 @@
 # CompanyX Asset Register
-Last Updated: YYYY-MM-DD
+Last Updated: 2025-05-01
 
 ## Instructions
 Each asset must include:

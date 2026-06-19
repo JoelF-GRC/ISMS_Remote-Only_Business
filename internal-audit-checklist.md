@@ -1,6 +1,6 @@
 # Internal Audit Checklist
 CompanyX ISO/IEC 27001:2022  
-Last Updated: YYYY-MM-DD
+Last Updated: 2025-06-01
 
 ## Purpose
 Provide a structured checklist for conducting annual ISO 27001 internal audits covering Clauses 4–10 and Annex A controls.

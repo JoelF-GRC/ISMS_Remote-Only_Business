@@ -1,6 +1,6 @@
 # Climate Change Addendum  
 Applicable to: ISMS Scope, Context, Risk Methodology, BCDR, Supplier Management  
-Last Updated: YYYY-MM-DD
+Last Updated: 2025-11-03
 
 ## Purpose
 To address ISO/IEC 27001:2022 Clause 4.1 requirements regarding environmental conditions — including climate change — and ensure CompanyX evaluates and manages risks arising from climate-related events.

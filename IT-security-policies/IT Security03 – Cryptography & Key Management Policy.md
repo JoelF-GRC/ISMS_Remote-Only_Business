@@ -67,4 +67,4 @@ Security Department (Security Architecture & Engineering)
 
 | Version | Author | Date | Changes | Approved By |
 |--------|---------|------------|----------------|--------------|
-| 1.0 | Security Department | YYYY-MM-DD | Initial creation | CISO / CTO |
+| 1.0 | Security Department | 2025-04-01 | Initial creation | CISO / CTO |

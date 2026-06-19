@@ -1,6 +1,6 @@
 # CompanyX Risk Treatment Plan
 ISO/IEC 27001:2022 Clause 6.1.3(e)
-Last Updated: YYYY-MM-DD
+Last Updated: 2025-06-01
 
 ## Purpose
 The Risk Treatment Plan (RTP) translates risk treatment decisions recorded in [risk-register.md](risk-register.md) into a concrete, owned, time-bound action plan. While the risk register captures *what the risk is and what control reduces it*, the RTP tracks *what specifically needs to be done, by whom, by when, and with what resources* — and records leadership approval of the residual risk.

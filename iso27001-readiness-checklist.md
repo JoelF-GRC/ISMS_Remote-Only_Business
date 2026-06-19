@@ -1,6 +1,6 @@
 # ISO/IEC 27001:2022 Certification Readiness Checklist
 CompanyX ISMS
-Last Updated: YYYY-MM-DD
+Last Updated: 2025-06-01
 
 ## Purpose
 This checklist tracks the mandatory documented information and operational records required for ISO/IEC 27001:2022 certification. It is intended to be used **after** [gap-analysis.md](gap-analysis.md) has identified priorities, to track concrete progress toward Stage 1 (documentation review) and Stage 2 (operational evidence) certification audits.

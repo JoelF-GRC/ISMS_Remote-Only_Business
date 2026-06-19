@@ -126,4 +126,4 @@ Legal / Privacy Function with oversight from the Security Department
 
 | Version | Author | Date | Changes | Approved By |
 |--------|--------|-----------|--------------|-------------|
-| 1.0 | Security Department | YYYY-MM-DD | Initial creation | CISO / CTO |
+| 1.0 | Security Department | 2026-06-12 | Initial creation | CISO / CTO |

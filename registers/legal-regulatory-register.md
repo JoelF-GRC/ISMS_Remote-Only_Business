@@ -1,6 +1,6 @@
 # CompanyX Legal & Regulatory Compliance Register
 ISO/IEC 27001:2022 Annex A: A.5.31, A.5.32, A.5.34
-Last Updated: YYYY-MM-DD
+Last Updated: 2025-05-01
 
 ## Purpose
 Maintain a living inventory of legal, regulatory, and contractual obligations relevant to information security, satisfying A.5.31 (Legal, statutory, regulatory and contractual requirements), A.5.32 (Intellectual property rights), and A.5.34 (Privacy and protection of PII).
