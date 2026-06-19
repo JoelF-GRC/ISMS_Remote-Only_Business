@@ -40,6 +40,7 @@ Located in `/ISMS-policies/`, these define the ISMS itself:
 - Risk Methodology
 - Management Overview
 - Management Review (record template + log)
+- Management Review Deck (Marp presentation template, Clause 9.3 inputs and outputs)
 - Roles & Responsibilities (RACI Matrix)
 - Document Control Policy & Register
 - Audit Policy
