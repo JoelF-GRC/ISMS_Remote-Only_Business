@@ -1,5 +1,5 @@
 # Management Review Record
-ISO/IEC 27001:2022 Clause 9.3
+ISO/IEC 27001:2022 Clause 9.3 — Management Review  
 Last Updated: YYYY-MM-DD
 
 ## Purpose
@@ -55,3 +55,4 @@ Security Department (ISMS Manager)
 | Version | Author | Date | Changes | Approved By |
 |--------|---------|------------|----------------|--------------|
 | 1.0 | Security Department | YYYY-MM-DD | Initial creation | CISO / CTO |
+| 1.1 | Security Department | 2026-06-19 | Confirmed as sole owner of Clause 9.3 process; review inputs no longer duplicated in management-overview.md | CISO / CTO |
