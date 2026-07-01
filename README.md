@@ -135,4 +135,6 @@ Documents are structured to reflect a lightweight, audit-ready ISO 27001 ISMS. T
 [Claude Code](https://claude.ai/code) was used during the development of this repo to review policy content for gaps, control mapping accuracy, and alignment with ISO/IEC 27001:2022 Annex A. All content was authored, reviewed, and validated by a human with GRC domain expertise.
 
 ## License
-Open for public reuse. Attribution appreciated but not required.
+[Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
+
+You are free to copy, adapt, and use this material for any purpose, including commercially, provided you give appropriate credit and link back to this repository.
