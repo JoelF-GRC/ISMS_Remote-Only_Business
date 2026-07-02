@@ -1,6 +1,6 @@
 # ISO/IEC 27001:2022 Certification Readiness Checklist
 CompanyX ISMS
-Last Updated: 2025-06-01
+Last Updated: 2026-07-02
 
 ## Purpose
 This checklist tracks the mandatory documented information and operational records required for ISO/IEC 27001:2022 certification. It is intended to be used **after** [gap-analysis.md](gap-analysis.md) has identified priorities, to track concrete progress toward Stage 1 (documentation review) and Stage 2 (operational evidence) certification audits.
@@ -64,7 +64,10 @@ This checklist tracks the mandatory documented information and operational recor
 | IT Security16 – Incident Response | In Operation | IT-security-policies/ | | | |
 | IT Security17 – Business Continuity & Disaster Recovery | In Operation | IT-security-policies/ | | | |
 | IT Security18 – Compliance, Audit & Policy Management | In Operation | IT-security-policies/ | | | |
-| IT Security19 – Acceptable Use Policy | Drafted | IT-security-policies/ | | | |
+| IT Security19 – Acceptable Use Policy | In Operation | IT-security-policies/ | | | |
+| IT Security20 – Remote Working Policy | In Operation | IT-security-policies/ | | | |
+| IT Security21 – Data Protection & Privacy Policy | In Operation | IT-security-policies/ | | | |
+| IT Security22 – AI Acceptable Use & Governance Policy | In Operation | IT-security-policies/ | | | |
 
 ---
 

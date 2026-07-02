@@ -23,6 +23,8 @@ Define and communicate roles, responsibilities, and authorities for the ISMS, sa
 - **DevOps** – DevOps/CI-CD
 - **HR** – Human Resources
 
+**Sizing note for a small team:** these are function labels, not a headcount requirement. A small business does not need ten distinct people to operate this ISMS. In practice, one GRC/Security hire commonly holds Security, GRC, and IAM; a single engineering lead covers Cloud, DevOps, and SecOps; and Leadership, IT, and HR are whoever already holds those functions in the business, security-adjacent responsibilities included. What matters for Clause 5.3 is that every row has a named individual behind it and that the same person is not marked both Accountable and sole Responsible for a control they cannot realistically self-check (e.g., the person configuring access should not also be the only reviewer of access reviews) — not that each column is a distinct employee.
+
 ---
 
 ## RACI Matrix
@@ -73,3 +75,4 @@ Security Department (ISMS Manager)
 | Version | Author | Date | Changes | Approved By |
 |---------|---------|------------|----------------|--------------|
 | 1.0 | Security Department | 2025-02-15 | Initial creation | CISO / CTO |
+| 1.1 | Security Department | 2026-07-02 | Added sizing note clarifying that RACI columns are function labels a small team can consolidate onto a small number of people, not a ten-person headcount requirement | CISO / CTO |

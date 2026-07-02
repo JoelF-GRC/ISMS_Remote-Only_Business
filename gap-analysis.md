@@ -1,6 +1,6 @@
 # ISO/IEC 27001:2022 Gap Analysis Tool
 CompanyX ISMS
-Last Updated: 2025-06-01
+Last Updated: 2026-07-02
 
 ## Purpose
 This tool helps an organization assess its current maturity against ISO/IEC 27001:2022 Clauses 4–10 and the consolidated Annex A policy areas used in this ISMS, **before** committing to a certification timeline. It is intended for use early in an implementation project — typically before the [iso27001-readiness-checklist.md](iso27001-readiness-checklist.md) is worked through in detail.
@@ -63,6 +63,9 @@ Unlike `internal-audit-checklist.md` (which assumes an operating ISMS and suppor
 | IT Security17 | Business Continuity & Disaster Recovery | | | | | | |
 | IT Security18 | Compliance, Audit & Policy Management | | | | | | |
 | IT Security19 | Acceptable Use | | | | | | |
+| IT Security20 | Remote Working | | | | | | |
+| IT Security21 | Data Protection & Privacy | | | | | | |
+| IT Security22 | AI Acceptable Use & Governance | | | | | | |
 
 ---
 

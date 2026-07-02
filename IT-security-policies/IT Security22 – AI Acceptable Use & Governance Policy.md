@@ -6,13 +6,13 @@ Artificial Intelligence (AI) tools, including generative AI models, AI-assisted 
 
 The approval process for AI tools is integrated with the vendor management process defined in IT Security11 (Supplier & Vendor Management Policy). Data classification rules that govern what may be entered into AI tools are defined in IT Security05 (Asset Management & Information Classification Policy). Privacy obligations for AI use involving personal data are defined in IT Security21 (Data Protection & Privacy Policy).
 
-> **Future Alignment Note**: CompanyX intends to evaluate formal alignment to ISO/IEC 42001 (AI Management Systems), the NIST AI Risk Management Framework (AI RMF), and the EU AI Act as the organization's use of AI matures. Such alignment would be scoped as a standalone AI governance program and does not replace this policy.
+> **Relationship to the AI Management System**: CompanyX operates a dedicated AI Management System (AIMS), aligned to ISO/IEC 42001 (AI Management Systems), the NIST AI Risk Management Framework (AI RMF), and the EU AI Act, documented in the companion `AI-Management_SaaS_Business` repository. This policy remains the ISO 27001-level baseline for AI acceptable use and continues to apply in full. The AIMS provides deeper, AI-specific governance layered on top of this policy — including the authoritative Approved AI Tool List, the AI system inventory, and the AI-specific risk register — and is the authoritative source where both frameworks address the same AI matter.
 
 ## Policy
 
 ### 1. Approved AI Tools  
 (Annex A: A.5.10, A.8.19)
-- Employees may only use AI tools that appear on the CompanyX **Approved AI Tool List**, maintained by the Security Department.
+- Employees may only use AI tools that appear on the CompanyX **Approved AI Tool List**, owned by the AI Management Committee under the companion AI Management System (see `AI-Management_SaaS_Business/registers/approved-ai-tool-list.md`), with day-to-day administration delegated by AI-use context per that framework's roles-responsibilities.md.
 - The Approved AI Tool List specifies:
   - Tool name and vendor
   - Approved use cases
@@ -26,9 +26,9 @@ The approval process for AI tools is integrated with the vendor management proce
 |------|----------|------------------------|-------|
 | GitHub Copilot (Business/Enterprise) | AI coding assistant | Internal | Enterprise tier with org-level data exclusion required |
 | Microsoft 365 Copilot | Productivity AI | Confidential | Requires M365 E3/E5 tenant with no training opt-in |
-| ChatGPT Enterprise | Generative AI | Internal | Zero data retention policy required |
+| ChatGPT Enterprise | Generative AI | Confidential | Enterprise/business tier with training opt-out contractually confirmed; zero data retention policy required |
 
-*The Approved AI Tool List is maintained as a living document separate from this policy. The table above is illustrative; refer to the current list for authoritative approved tools.*
+*The Approved AI Tool List is maintained as a living document separate from this policy, in the companion AI Management System repository (`AI-Management_SaaS_Business/registers/approved-ai-tool-list.md`). The table above is illustrative; refer to that list for authoritative approved tools and current data classification limits.*
 
 ### 2. Request and Approval Process for New AI Tools  
 (Annex A: A.5.19, A.5.20)
@@ -124,3 +124,4 @@ Security Department (AI Governance & Risk)
 | Version | Author | Date | Changes | Approved By |
 |--------|--------|-----------|--------------|-------------|
 | 1.0 | Security Department | 2026-06-12 | Initial creation | CISO / CTO |
+| 1.1 | Security Department | 2026-07-02 | Replaced Future Alignment Note with Relationship to the AI Management System now that the companion AIMS repo exists; corrected Approved AI Tool List ownership to the AI Management Committee; corrected ChatGPT Enterprise illustrative classification to Confidential to match the authoritative Approved AI Tool List | CISO / CTO |

@@ -35,7 +35,7 @@ This policy is the primary reference for A.5.34 (Privacy and protection of PII).
   - Retention periods
   - Security measures
 - The RoPA must be reviewed at least annually and updated when new processing activities commence.
-- The RoPA is maintained in the Compliance Register and is available to regulators upon request.
+- The RoPA is maintained in `registers/ropa.md` and is available to regulators upon request.
 
 ### 4. Data Minimization and Purpose Limitation  
 (Annex A: A.5.34)
@@ -68,7 +68,7 @@ This policy is the primary reference for A.5.34 (Privacy and protection of PII).
   - Systematic monitoring of publicly accessible areas or employee activity
   - Use of new technologies (including AI tools processing personal data)
   - Automated decision-making or profiling with significant effects
-- DPIAs must be documented, reviewed by the Privacy function, and retained for audit purposes.
+- DPIAs must be documented, reviewed by the Privacy function, and retained for audit purposes. The DPIA process and log are maintained in `registers/dpia-log.md`. For AI features specifically, the companion AI Management System's AI-Gov05 Section 7 runs a threshold screening before this process is triggered.
 
 ### 8. Data Transfers and Cross-Border Requirements  
 (Annex A: A.5.34)
@@ -127,3 +127,4 @@ Legal / Privacy Function with oversight from the Security Department
 | Version | Author | Date | Changes | Approved By |
 |--------|--------|-----------|--------------|-------------|
 | 1.0 | Security Department | 2026-06-12 | Initial creation | CISO / CTO |
+| 1.1 | Security Department | 2026-07-02 | Replaced vague RoPA reference to "the Compliance Register" with the concrete registers/ropa.md; added concrete DPIA process reference to the new registers/dpia-log.md | CISO / CTO |

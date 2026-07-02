@@ -158,4 +158,4 @@ CompanyX is a fully remote organization with no company-operated offices, server
 
 # Approval
 Approved by: CISO / CTO  
-Date: 2025-04-01
+Date: 2026-06-19

@@ -24,6 +24,7 @@ The table below maps every clause-mandated record to the file that satisfies it,
 | Statement of Applicability | 6.1.3 d) | `soa.md` |
 | Information security objectives | 6.2 | `ISMS-policies/objectives.md` |
 | Evidence of competence and training | 7.2, 7.3 | `registers/training-register.md` |
+| Internal and external communication about the ISMS | 7.4 | `ISMS-policies/management-overview.md` |
 | Monitoring and measurement results | 9.1 | `registers/metrics-register.md` |
 | Internal audit programme | 9.2 | `ISMS-policies/audit-policy.md` |
 | Internal audit results | 9.2 | `internal-audit-checklist.md` |
@@ -84,6 +85,8 @@ Located in `/registers/`.
 - **legal-regulatory-register.md** — legal, regulatory, and contractual obligations tracker
 - **bcdr-test-log.md** — backup restore, failover, and tabletop exercise records
 - **metrics-register.md** — ISMS performance metrics and measurement results against information security objectives (Clause 9.1)
+- **ropa.md** — Record of Processing Activities (GDPR Article 30 / A.5.34)
+- **dpia-log.md** — Data Protection Impact Assessment process and log (GDPR Article 35 / A.5.34), also serving as the DPIA process the companion AI Management System's AI-Gov05 routes into
 
 ### Core ISO Documents
 - **ISMS-policies/scope.md** — ISMS scope statement (Clause 4.3)

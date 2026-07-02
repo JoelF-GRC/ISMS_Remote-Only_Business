@@ -1,6 +1,6 @@
 # CompanyX Risk Treatment Plan
 ISO/IEC 27001:2022 Clause 6.1.3(e)
-Last Updated: 2025-06-01
+Last Updated: 2026-07-02
 
 ## Purpose
 The Risk Treatment Plan (RTP) translates risk treatment decisions recorded in [risk-register.md](risk-register.md) into a concrete, owned, time-bound action plan. While the risk register captures *what the risk is and what control reduces it*, the RTP tracks *what specifically needs to be done, by whom, by when, and with what resources* — and records leadership approval of the residual risk.
@@ -24,9 +24,10 @@ The Risk Treatment Plan (RTP) translates risk treatment decisions recorded in [r
 
 | Risk ID | Treatment Option | Action / Control to Implement | Resources Required | Owner | Target Date | Status | Residual Risk Approved By | Approval Date |
 |---------|-------------------|--------------------------------|----------------------|-------|--------------|--------|------------------------------|----------------|
-| R-001 | Mitigate | Enforce Conditional Access MFA for all Entra ID users | Entra ID P2 licensing | IAM Lead | | Not Started | | |
-| R-008 | Accept | Document insider-threat residual risk acceptance; rely on PIM + logging | None | Security | | Pending Approval | | |
-| R-013 | Accept | Document data retention residual risk acceptance pending policy update | None | GRC | | Pending Approval | | |
+| R-001 | Mitigate | Enforce Conditional Access MFA for all Entra ID users | Entra ID P2 licensing | Security | 2026-03-01 | Completed | | |
+| R-008 | Accept | Document insider-threat residual risk acceptance; rely on PIM + logging | None | Security | 2026-06-19 | Approved | CISO / Head of Security | 2026-06-19 |
+| R-013 | Accept | Document data retention residual risk acceptance pending policy update | None | GRC | 2026-06-19 | Approved | CISO / Head of Security | 2026-06-19 |
+| R-017 | Accept | Document workforce-availability residual risk acceptance; rely on distributed workforce and redundancy | None | HR/Sec | 2026-06-19 | Approved | CISO / Head of Security | 2026-06-19 |
 | | | | | | | | | |
 
 ---

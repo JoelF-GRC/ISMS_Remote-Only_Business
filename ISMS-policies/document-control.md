@@ -45,7 +45,7 @@ This register provides a single index of ISMS documents with their current revie
 | Roles & Responsibilities (RACI) | ISMS-policies/roles-responsibilities.md | Security | | | |
 | Audit Policy | ISMS-policies/audit-policy.md | Security | | | |
 | Continual Improvement Policy | ISMS-policies/continual-improvement.md | Security | | | |
-| IT Security01–19 (Annex A policies) | IT-security-policies/ | Security | | | |
+| IT Security01–22 (Annex A policies) | IT-security-policies/ | Security | | | |
 | Statement of Applicability | soa.md | Security | | | |
 | Risk Register | registers/risk-register.md | GRC | | | |
 | Risk Treatment Plan | registers/risk-treatment-plan.md | GRC | | | |
@@ -55,6 +55,8 @@ This register provides a single index of ISMS documents with their current revie
 | Legal & Regulatory Register | registers/legal-regulatory-register.md | GRC | | | |
 | Corrective Action Log | registers/corrective-action-log.md | Security | | | |
 | BCDR Test Log | registers/bcdr-test-log.md | Infra/Security | | | |
+| Record of Processing Activities (RoPA) | registers/ropa.md | GRC | | | |
+| DPIA Log | registers/dpia-log.md | Legal/Privacy | | | |
 | Internal Audit Checklist | internal-audit-checklist.md | Security | | | |
 | Gap Analysis | gap-analysis.md | Security | | | |
 | Readiness Checklist | iso27001-readiness-checklist.md | Security | | | |
@@ -67,3 +69,4 @@ Security Department (ISMS Manager)
 | Version | Author | Date | Changes | Approved By |
 |--------|---------|------------|----------------|--------------|
 | 1.0 | Security Department | 2025-02-15 | Initial creation | CISO / CTO |
+| 1.1 | Security Department | 2026-07-02 | Corrected IT Security01–19 to IT Security01–22 to include Remote Working, Data Protection & Privacy, and AI Governance policies; added Record of Processing Activities and DPIA Log registers | CISO / CTO |

@@ -1,5 +1,5 @@
 # CompanyX Vendor Register
-Last Updated: 2025-05-01
+Last Updated: 2026-07-02
 
 ## Risk Tiers
 - **High Risk:** Access to production data/systems  
@@ -21,6 +21,10 @@ Last Updated: 2025-05-01
 | Slack               | Communications     | Medium    | SOC 2             | Annual       | IT          | SSO required                 |
 | Zoom                | Video conferencing | Medium    | SOC 2             | Annual       | IT          | Waiting room, host controls  |
 | Payroll/HRIS Vendor | HR Data            | High      | SOC 2             | Annual       | HR          | Handles PII                  |
+| Foundation Model API Provider (illustrative: "a frontier LLM API provider") | Embedded product AI backend | High | SOC 2, DPA, training opt-out confirmed | Annual, or on model/provider change | Product/Engineering | Base vendor review under this register; AI-specific due diligence delta tracked in `AI-Management_SaaS_Business/registers/ai-vendor-due-diligence-register.md` per AI-Gov04 |
+| ChatGPT Enterprise | Generative AI, internal productivity | Medium | SOC 2, training opt-out confirmed | Annual | Security | See Approved AI Tool List (ATL-002) for data classification limits |
+| Microsoft 365 Copilot | Generative AI, productivity suite add-on | Medium | SOC 2, covered under existing M365/Entra tenant agreement | Annual | IT | See Approved AI Tool List (ATL-001) for data classification limits |
+| GitHub Copilot (Business/Enterprise) | AI coding assistant | Medium | SOC 2, org-level data exclusion required | Annual | Engineering | Add-on to existing GitHub relationship above; see Approved AI Tool List (ATL-003) |
 
 ---
 
